@@ -2,7 +2,7 @@
   "id": "session_3cef69fb",
   "name": null,
   "created_at": "2025-05-20T11:16:33.630838",
-  "last_updated": "2025-05-20T11:54:26.735775",
+  "last_updated": "2025-05-20T22:40:10.166212",
   "messages": [
     {
       "timestamp": "2025-05-20T11:16:56.162825",
@@ -33,6 +33,11 @@
       "timestamp": "2025-05-20T11:39:07.112661",
       "user": "what do you mean by partner with healthcare providers and NGOs?",
       "assistant": "When referring to partnering with healthcare providers and NGOs in the context of workplace reproductive and fertility health policies, it means collaborating with these organizations to enhance access to reproductive healthcare services for employees. This partnership can help expand the reach and effectiveness of company policies by leveraging the expertise and resources of healthcare providers and NGOs.\n\nHere are some ways this partnership can be beneficial:\n\n1. **Access to Expertise**: Healthcare providers can offer specialized medical services and advice, while NGOs can provide community outreach and advocacy support[DOCUMENT 2][DOCUMENT 3].\n\n2. **Resource Expansion**: Partnering with NGOs can help companies reach resource-limited areas, ensuring that employees in these regions have access to necessary reproductive health services[DOCUMENT 4][DOCUMENT 5].\n\n3. **Awareness and Education**: NGOs often have established networks for raising awareness and providing educational resources, which can help normalize discussions around reproductive health in the workplace[DOCUMENT 4][DOCUMENT 5].\n\nPrimary sources used for this summary include:\n- **Partnerships for Reproductive Health** [DOCUMENT 2][DOCUMENT 3]\n- **Key Considerations for Global Implementation** [DOCUMENT 4][DOCUMENT 5]"
+    },
+    {
+      "timestamp": "2025-05-20T22:37:40.099405",
+      "user": "how does We Are Eden use surveys and feedback sessions?",
+      "assistant": "The provided documents do not specifically detail how We Are Eden uses surveys and feedback sessions. However, based on general practices in workplace reproductive and fertility health policies, companies often use surveys and feedback sessions to:\n\n1. **Assess Employee Needs**: Conduct surveys to understand the specific reproductive health needs of employees, which helps in tailoring policies[DOC 1][DOC 2][DOC 3].\n\n2. **Evaluate Policy Effectiveness**: Use feedback sessions to gather qualitative data on how well policies are meeting employee needs and identify areas for improvement[DOC 4][DOC 5].\n\n3. **Foster Open Communication**: Encourage open discussions through workshops and training sessions to normalize conversations around reproductive health[DOC 3][DOC 5].\n\nPrimary sources used for this summary include:\n- **We Are Eden's Services** [DOC 1][DOC 2][DOC 3][DOC 4][DOC 5]"
     }
   ]
 }

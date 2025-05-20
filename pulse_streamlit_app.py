@@ -21,12 +21,16 @@ st.set_page_config(
     initial_sidebar_state="expanded"
 )
 
+# Load environment variables
+from dotenv import load_dotenv
+load_dotenv()
+
 # Authentication token - in production you would use an environment variable
 # In a more secure setup, store this in an environment variable:
 # ACCESS_TOKEN = os.environ.get("ACCESS_TOKEN", "default_token_for_development")
-ACCESS_TOKEN = "policypulse2025"  # Change this to your desired token
+ACCESS_TOKEN = os.environ.get("ACCESS_TOKEN") # Change this to your desired token
 
-# Initialize session state variables
+# Initialize ALL session state variables - make this comprehensive
 if "authenticated" not in st.session_state:
     st.session_state.authenticated = False
 if "messages" not in st.session_state:
@@ -37,6 +41,12 @@ if "current_session_id" not in st.session_state:
     st.session_state.current_session_id = st.session_state.session_manager.get_current_session_id()
 if "retrieved_chunks" not in st.session_state:
     st.session_state.retrieved_chunks = []
+if "current_query" not in st.session_state:
+    st.session_state.current_query = ""
+if "needs_processing" not in st.session_state:
+    st.session_state.needs_processing = False
+if "user_input" not in st.session_state:
+    st.session_state.user_input = ""
 
 # Pinecone configuration (in production, use environment variables)
 index_name = "policypulse"  # Your Pinecone index name
@@ -47,16 +57,16 @@ def show_auth_page():
     st.title("🌱 Policy Pulse")
     st.subheader("Reproductive Health Compliance Assistant")
     
-    with st.form("auth_form"):
-        token = st.text_input("Enter access token:", type="password")
-        submit = st.form_submit_button("Login")
-        
-        if submit:
-            if token == ACCESS_TOKEN:
-                st.session_state.authenticated = True
-                st.experimental_rerun()
-            else:
-                st.error("Invalid token. Please try again.")
+    # Use a unique, static key for the text input
+    token = st.text_input("Enter access token:", type="password", key="auth_token_input")
+    
+    # Use a button outside the form (simpler approach)
+    if st.button("Login", key="auth_submit_button"):
+        if token == ACCESS_TOKEN:
+            st.session_state.authenticated = True
+            st.rerun()
+        else:
+            st.error("Invalid token. Please try again.")
 
 # Function to save messages to the session manager
 def save_messages():
@@ -79,90 +89,103 @@ def save_messages():
     st.session_state.session_manager.save_session()
 
 # Function to handle chat input
-def handle_chat_input():
-    if st.session_state.user_input and st.session_state.user_input.strip():
-        user_input = st.session_state.user_input.strip()
+# Define callback for when input changes
+def on_input_change():
+    """Callback that runs when chat input value changes"""
+    if "user_input" in st.session_state and st.session_state.user_input.strip():
+        # Store the value in a different session state variable
+        st.session_state.current_query = st.session_state.user_input.strip()
+        # Set a flag instead of directly processing input
+        st.session_state.needs_processing = True
+        # DON'T call process_input here
+
+# Function to process user input
+def process_input(user_input):
+    """Process user input - commands or questions"""
+    # Handle commands
+    if user_input.startswith("/"):
+        parts = user_input[1:].split(maxsplit=1)
+        command = parts[0].lower()
+        args = parts[1] if len(parts) > 1 else ""
         
-        # Handle commands
-        if user_input.startswith("/"):
-            parts = user_input[1:].split(maxsplit=1)
-            command = parts[0].lower()
-            args = parts[1] if len(parts) > 1 else ""
+        # Process commands
+        if command == "new":
+            st.session_state.session_manager.new_session()
+            st.session_state.current_session_id = st.session_state.session_manager.get_current_session_id()
+            st.session_state.messages = []
+            st.session_state.retrieved_chunks = []
+            st.info(f"Started new conversation. Session ID: {st.session_state.current_session_id}")
+            st.rerun()
+        
+        elif command == "save":
+            session_name = args.strip() if args else None
+            session_id = st.session_state.session_manager.save_session(session_name)
+            name_display = f" as '{session_name}'" if session_name else ""
+            st.info(f"Conversation saved{name_display}. Session ID: {session_id}")
+        
+        elif command == "load":
+            session_id = args.strip()
+            if not session_id:
+                st.error("Please specify a session ID or name to load.")
+                return
             
-            # Process commands
-            if command == "new":
-                st.session_state.session_manager.new_session()
+            success = st.session_state.session_manager.load_session(session_id)
+            if success:
                 st.session_state.current_session_id = st.session_state.session_manager.get_current_session_id()
-                st.session_state.messages = []
-                st.info(f"Started new conversation. Session ID: {st.session_state.current_session_id}")
-            
-            elif command == "save":
-                session_name = args.strip() if args else None
-                session_id = st.session_state.session_manager.save_session(session_name)
-                name_display = f" as '{session_name}'" if session_name else ""
-                st.info(f"Conversation saved{name_display}. Session ID: {session_id}")
-            
-            elif command == "load":
-                session_id = args.strip()
-                if not session_id:
-                    st.error("Please specify a session ID or name to load.")
-                    return
+                history = st.session_state.session_manager.get_conversation_history()
                 
-                success = st.session_state.session_manager.load_session(session_id)
-                if success:
-                    st.session_state.current_session_id = st.session_state.session_manager.get_current_session_id()
-                    history = st.session_state.session_manager.get_conversation_history()
-                    
-                    # Convert history to messages
-                    st.session_state.messages = []
-                    for exchange in history:
-                        st.session_state.messages.append({"role": "user", "content": exchange["user"]})
-                        st.session_state.messages.append({"role": "assistant", "content": exchange["assistant"]})
-                    
-                    st.info(f"Loaded conversation: {st.session_state.session_manager.get_session_name()}")
-                else:
-                    st.error(f"Could not load session '{session_id}'.")
-            
-            elif command == "help":
-                help_text = (
-                    "Available commands:\n"
-                    "/new - Start a new conversation\n"
-                    "/save [name] - Save current conversation with optional name\n"
-                    "/load [id|name] - Load a specific conversation\n"
-                    "/list - Show available saved conversations\n"
-                    "/help - Show this help message"
-                )
-                st.info(help_text)
-            
-            elif command == "list":
-                sessions = st.session_state.session_manager.list_sessions()
-                if not sessions:
-                    st.info("No saved conversations found.")
-                else:
-                    sessions_df = pd.DataFrame([
-                        {
-                            "ID/Name": s["name"] or s["id"],
-                            "Messages": s["message_count"],
-                            "Created": s["created_at"].split("T")[0],
-                            "Last Updated": s["last_updated"].split("T")[0]
-                        } for s in sessions
-                    ])
-                    st.table(sessions_df)
-            
+                # Convert history to messages
+                st.session_state.messages = []
+                for exchange in history:
+                    st.session_state.messages.append({"role": "user", "content": exchange["user"]})
+                    st.session_state.messages.append({"role": "assistant", "content": exchange["assistant"]})
+                
+                st.info(f"Loaded conversation: {st.session_state.session_manager.get_session_name()}")
+                st.rerun()
             else:
-                st.error(f"Unknown command: {command}. Type /help for available commands.")
+                st.error(f"Could not load session '{session_id}'.")
+        
+        elif command == "help":
+            help_text = (
+                "Available commands:\n"
+                "/new - Start a new conversation\n"
+                "/save [name] - Save current conversation with optional name\n"
+                "/load [id|name] - Load a specific conversation\n"
+                "/list - Show available saved conversations\n"
+                "/help - Show this help message"
+            )
+            st.info(help_text)
+        
+        elif command == "list":
+            sessions = st.session_state.session_manager.list_sessions()
+            if not sessions:
+                st.info("No saved conversations found.")
+            else:
+                sessions_df = pd.DataFrame([
+                    {
+                        "ID/Name": s["name"] or s["id"],
+                        "Messages": s["message_count"],
+                        "Created": s["created_at"].split("T")[0],
+                        "Last Updated": s["last_updated"].split("T")[0]
+                    } for s in sessions
+                ])
+                st.table(sessions_df)
         
         else:
-            # Regular question - add user message
-            st.session_state.messages.append({"role": "user", "content": user_input})
+            st.error(f"Unknown command: {command}. Type /help for available commands.")
+    
+    else:
+        # Regular question - add user message
+        st.session_state.messages.append({"role": "user", "content": user_input})
+        
+        # Create a placeholder for the assistant's response
+        with st.chat_message("assistant"):
+            thinking_placeholder = st.empty()
+            thinking_placeholder.text("Thinking...")
             
-            # Show thinking indicator
-            with st.chat_message("assistant"):
-                thinking_placeholder = st.empty()
-                thinking_placeholder.text("Thinking...")
-                
-                # Process the question
-                # 1. Retrieve chunks
+            # Process the question
+            # 1. Retrieve chunks
+            try:
                 with st.spinner("Searching for relevant information..."):
                     retrieved_chunks = retrieve_relevant_chunks(user_input, index_name, api_key, top_k=5)
                     st.session_state.retrieved_chunks = retrieved_chunks
@@ -180,13 +203,19 @@ def handle_chat_input():
                 # Add assistant message
                 thinking_placeholder.empty()
                 st.session_state.messages.append({"role": "assistant", "content": response})
-                st.write(response)
-            
-            # Save the conversation
-            save_messages()
-        
-        # Clear the input
-        st.session_state.user_input = ""
+                thinking_placeholder.markdown(response)  # Use markdown instead of write for better formatting
+                
+                # Save the conversation
+                st.session_state.session_manager.add_message(user_input, response)
+                
+            except Exception as e:
+                thinking_placeholder.error(f"Error processing your question: {str(e)}")
+                # You may want to log the full error details somewhere
+                import traceback
+                print(f"Error in process_input: {traceback.format_exc()}")
+    
+    # Force a rerun to update the UI
+    #st.rerun()
 
 # Main chat interface
 def show_chat_interface():
@@ -205,7 +234,7 @@ def show_chat_interface():
             st.session_state.current_session_id = st.session_state.session_manager.get_current_session_id()
             st.session_state.messages = []
             st.session_state.retrieved_chunks = []
-            st.experimental_rerun()
+            st.rerun()
         
         # Name and save session
         with st.expander("Save Conversation"):
@@ -233,7 +262,7 @@ def show_chat_interface():
                             st.session_state.messages.append({"role": "user", "content": exchange["user"]})
                             st.session_state.messages.append({"role": "assistant", "content": exchange["assistant"]})
                         
-                        st.experimental_rerun()
+                        st.rerun()
                     else:
                         st.error("Failed to load session.")
             else:
@@ -253,7 +282,7 @@ def show_chat_interface():
         # Logout option
         if st.button("Logout"):
             st.session_state.authenticated = False
-            st.experimental_rerun()
+            st.rerun()
     
     # Main chat area - Create a 2-column layout
     col1, col2 = st.columns([2, 1])
@@ -272,7 +301,7 @@ def show_chat_interface():
         st.chat_input(
             "Ask a question about reproductive health policies...", 
             key="user_input", 
-            on_submit=handle_chat_input
+            on_submit=on_input_change
         )
     
     with col2:
@@ -293,6 +322,12 @@ def main():
         show_auth_page()
     else:
         show_chat_interface()
+
+    # Process any pending input from the callback
+    if st.session_state.get("needs_processing", False):
+        process_input(st.session_state.current_query)
+        st.session_state.needs_processing = False
+        st.rerun()    
 
 if __name__ == "__main__":
     main()

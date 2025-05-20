@@ -41,19 +41,33 @@ class SessionManager:
         """
         # Update session metadata
         if session_name:
-            self.current_session["name"] = session_name
-            # Also update the ID if a name is provided
-            self.current_session["id"] = session_name
-            
+            # Sanitize the session name to be safe for filenames
+            safe_name = "".join([c for c in session_name if c.isalnum() or c in "_-"]).rstrip()
+            if not safe_name:
+                safe_name = f"session_{uuid.uuid4().hex[:8]}"
+            self.current_session["name"] = session_name  # Original name for display
+            self.current_session["id"] = safe_name  # Sanitized name for file
+        else:
+            # Keep existing ID if no name provided
+            if "id" not in self.current_session:
+                self.current_session["id"] = f"session_{uuid.uuid4().hex[:8]}"
+                
         self.current_session["last_updated"] = datetime.datetime.now().isoformat()
         
         # Save to file
         session_id = self.current_session["id"]
         file_path = self.sessions_dir / f"{session_id}.json"
         
-        with open(file_path, 'w', encoding='utf-8') as f:
-            json.dump(self.current_session, f, ensure_ascii=False, indent=2)
+        # Ensure parent directory exists
+        self.sessions_dir.mkdir(exist_ok=True, parents=True)
         
+        try:
+            with open(file_path, 'w', encoding='utf-8') as f:
+                json.dump(self.current_session, f, ensure_ascii=False, indent=2)
+            print(f"Session saved successfully to {file_path}")
+        except Exception as e:
+            print(f"Error saving session: {e}")
+            
         return session_id
     
     def load_session(self, session_id):
