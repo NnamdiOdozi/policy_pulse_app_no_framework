@@ -1,0 +1,28 @@
+# Compatible with Python >= 3.10
+
+# Core packages
+numpy        # Supports Python 3.11+
+pandas>=2.0.0
+matplotlib>=3.7.0
+tqdm
+psutil
+requests
+python-dotenv
+ipykernel
+ipywidgets
+jupyter
+nbformat
+
+# NLP / Embedding / Retrieval
+rank_bm25
+pinecone      # Correct package name for Pinecone
+langchain             # Top-level package only
+
+# Document processing
+pymupdf
+python-docx
+python-pptx
+odfpy
+pytesseract
+pdf2image
+pillow
