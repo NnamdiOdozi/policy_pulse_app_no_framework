@@ -26,3 +26,5 @@ odfpy
 pytesseract
 pdf2image
 pillow
+
+streamlit
