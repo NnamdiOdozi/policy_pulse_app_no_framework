@@ -43,17 +43,17 @@ def auth0_login():
         f"https://{AUTH0_DOMAIN}/authorize"
     )
     st.session_state["auth0_state"] = state
-    st.experimental_set_query_params(_redirect=authorization_url)
+    st.query_params["_redirect"] = authorization_url
     st.rerun()
 
 def auth0_callback() -> bool:
     """Handle the callback from Auth0. Returns True if login completed."""
     params = st.query_params
-    if "code" not in params or "state" not in params:
+    if "code" not in st.query_params or "state" not in st.query_params:
         return False
 
-    code  = params["code"][0]
-    state = params["state"][0]
+    code = st.query_params.get("code")
+    state = st.query_params.get("state")
     if state != st.session_state.get("auth0_state"):
         st.error("⚠️ Authentication failed (invalid state).")
         st.stop()
@@ -76,7 +76,7 @@ def auth0_callback() -> bool:
         "email": userinfo.get("email"),
     }
     #st.session_state.authenticated = True
-    st.experimental_set_query_params()  # Clean URL
+    st.query_params.clear()  # Clean URL
     return True
 
 
