@@ -44,7 +44,17 @@ def auth0_login():
     )
     st.session_state["auth0_state"] = state
     st.query_params["_redirect"] = authorization_url
-    st.rerun()
+
+    # Use direct JavaScript redirect - no st.rerun()
+    st.markdown(f"""
+    <script>
+    window.location.href = "{authorization_url}";
+    </script>
+    """, unsafe_allow_html=True)
+    
+    st.stop()  # Stop execution here
+
+    #st.rerun() removed to stop infinte loop
 
 def auth0_callback() -> bool:
     """Handle the callback from Auth0. Returns True if login completed."""
