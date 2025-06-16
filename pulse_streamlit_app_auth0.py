@@ -24,15 +24,75 @@ st.set_page_config(
 # Load environment variables
 from dotenv import load_dotenv
 load_dotenv()
+from authlib.integrations.requests_client import OAuth2Session
+
+AUTH0_DOMAIN = os.environ.get("AUTH0_DOMAIN")
+AUTH0_CLIENT_ID = os.environ.get("AUTH0_CLIENT_ID")
+AUTH0_CLIENT_SECRET = os.environ.get("AUTH0_CLIENT_SECRET")
+AUTH0_CALLBACK_URL = os.environ.get("AUTH0_CALLBACK_URL")
+
+def auth0_login():
+    oauth = OAuth2Session(
+        client_id=AUTH0_CLIENT_ID,
+        client_secret=AUTH0_CLIENT_SECRET,
+        scope="openid profile email",
+        redirect_uri=AUTH0_CALLBACK_URL,
+    )
+    authorization_url, state = oauth.create_authorization_url(
+        f"https://{AUTH0_DOMAIN}/authorize"
+    )
+    st.session_state["auth0_state"] = state
+    
+    # Mark that we've already redirected once
+    st.session_state["auth0_redirected"] = True
+    
+    # Use new query params API
+    st.query_params["_redirect"] = authorization_url
+    st.rerun()
+
+def auth0_callback() -> bool:
+    """Handle the callback from Auth0. Returns True if login completed."""
+    params = st.query_params
+    if "code" not in st.query_params or "state" not in st.query_params:
+        return False
+
+    code = st.query_params.get("code")
+    state = st.query_params.get("state")
+    if state != st.session_state.get("auth0_state"):
+        st.error("⚠️ Authentication failed (invalid state).")
+        st.stop()
+
+    oauth = OAuth2Session(
+        client_id=AUTH0_CLIENT_ID,
+        client_secret=AUTH0_CLIENT_SECRET,
+        scope="openid profile email",
+        redirect_uri=AUTH0_CALLBACK_URL,
+        state=state,
+    )
+    token = oauth.fetch_token(
+        f"https://{AUTH0_DOMAIN}/oauth/token",
+        code=code,
+        include_client_id=True,
+    )
+    userinfo = oauth.get(f"https://{AUTH0_DOMAIN}/userinfo").json()
+    st.session_state["user"] = {
+        "name":  userinfo.get("name"),
+        "email": userinfo.get("email"),
+    }
+    #st.session_state.authenticated = True
+    st.query_params.clear()  # Clean URL
+    return True
+
 
 # Authentication token - in production you would use an environment variable
 # In a more secure setup, store this in an environment variable:
 # ACCESS_TOKEN = os.environ.get("ACCESS_TOKEN", "default_token_for_development")
-ACCESS_TOKEN = os.environ.get("ACCESS_TOKEN") # Change this to your desired token
+#ACCESS_TOKEN = os.environ.get("ACCESS_TOKEN") # Change this to your desired token
+
 
 # Initialize ALL session state variables - make this comprehensive
-if "authenticated" not in st.session_state:
-    st.session_state.authenticated = False
+#if "authenticated" not in st.session_state:
+#    st.session_state.authenticated = False
 if "messages" not in st.session_state:
     st.session_state.messages = []
 if "session_manager" not in st.session_state:
@@ -52,21 +112,21 @@ if "user_input" not in st.session_state:
 index_name = "policypulse"  # Your Pinecone index name
 api_key = os.environ.get("PINECONE_API_KEY")  # Your Pinecone API key
 
-# Authentication page
-def show_auth_page():
-    st.title("🌱 Policy Pulse")
-    st.subheader("Reproductive Health Compliance Assistant")
+# # Authentication page
+# def show_auth_page():
+#     st.title("🌱 Policy Pulse")
+#     st.subheader("Reproductive Health Compliance Assistant")
     
-    # Use a unique, static key for the text input
-    token = st.text_input("Enter access token:", type="password", key="auth_token_input")
+#     # Use a unique, static key for the text input
+#     token = st.text_input("Enter access token:", type="password", key="auth_token_input")
     
-    # Use a button outside the form (simpler approach)
-    if st.button("Login", key="auth_submit_button"):
-        if token == ACCESS_TOKEN:
-            st.session_state.authenticated = True
-            st.rerun()
-        else:
-            st.error("Invalid token. Please try again.")
+#     # Use a button outside the form (simpler approach)
+#     if st.button("Login", key="auth_submit_button"):
+#         if token == ACCESS_TOKEN:
+#             st.session_state.authenticated = True
+#             st.rerun()
+#         else:
+#             st.error("Invalid token. Please try again.")
 
 # Function to save messages to the session manager
 def save_messages():
@@ -278,11 +338,13 @@ def show_chat_interface():
             - `/list` - Show available saved conversations
             - `/help` - Show help message
             """)
-        
         # Logout option
-        if st.button("Logout"):
-            st.session_state.authenticated = False
-            st.rerun()
+        st.sidebar.button("Logout", on_click=lambda: st.session_state.clear())
+
+        # Logout option
+        #if st.button("Logout"):
+        #    st.session_state.authenticated = False
+        #    st.rerun()
     
     # Main chat area - Create a 2-column layout
     col1, col2 = st.columns([2, 1])
@@ -318,16 +380,19 @@ def show_chat_interface():
 
 # Main app logic
 def main():
-    if not st.session_state.authenticated:
-        show_auth_page()
-    else:
-        show_chat_interface()
-
-    # Process any pending input from the callback
-    if st.session_state.get("needs_processing", False):
-        process_input(st.session_state.current_query)
-        st.session_state.needs_processing = False
-        st.rerun()    
+    # Your updated main function with the auth0 flag logic
+    if "user" not in st.session_state:
+        if not st.session_state.get("auth0_redirected", False):
+            auth0_login()
+            return
+        elif auth0_callback():
+            if "auth0_redirected" in st.session_state:
+                del st.session_state["auth0_redirected"]
+            st.rerun()
+        return
+    
+    st.sidebar.success(f"Welcome, {st.session_state['user']['name']}")
+    show_chat_interface()
 
 if __name__ == "__main__":
-    main()
+    main()  # ← This must stay!
