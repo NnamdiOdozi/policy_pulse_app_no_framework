@@ -43,7 +43,7 @@ def auth0_login():
         f"https://{AUTH0_DOMAIN}/authorize"
     )
     st.session_state["auth0_state"] = state
-    st.set_query_params(_redirect=authorization_url)
+    st.experimental_set_query_params(_redirect=authorization_url)
     st.rerun()
 
 def auth0_callback() -> bool:
@@ -76,7 +76,7 @@ def auth0_callback() -> bool:
         "email": userinfo.get("email"),
     }
     #st.session_state.authenticated = True
-    st.set_query_params()  # Clean URL
+    st.experimental_set_query_params()  # Clean URL
     return True
 
 
