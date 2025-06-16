@@ -1,31 +1,32 @@
 # Compatible with Python >= 3.10
 
 # Core packages
-numpy        # Supports Python 3.11+
-pandas>=2.0.0
-matplotlib>=3.7.0
-tqdm
-psutil
-requests
-python-dotenv
-ipykernel
-ipywidgets
-jupyter
-nbformat
+numpy==2.3.0        # Supports Python 3.11+
+pandas==2.3.0
+matplotlib==3.10.3
+tqdm==4.67.1
+psutil==7.0.0
+requests==2.32.4
+python-dotenv==1.1.0
+ipykernel==6.29.5
+ipywidgets==8.1.7
+jupyter==1.1.1
+nbformat==5.10.4
 
 # NLP / Embedding / Retrieval
-rank_bm25
+rank-bm25==0.2.2
 pinecone==6.0.0      # Correct package name for Pinecone
-langchain             # Top-level package only
+langchain==0.3.25             # Top-level package only
 
 # Document processing
-pymupdf
-python-docx
-python-pptx
-odfpy
-pytesseract
-pdf2image
-pillow
+PyMuPDF==1.26.1
+python-docx==1.1.2
+python-pptx==1.0.2
+odfpy==1.4.1
+pytesseract==0.3.13
+pdf2image==1.17.0
+pillow==11.2.1
 
 streamlit==1.45.1
-pyreadline3
+pyreadline3==3.5.4
+authlib==1.6.0

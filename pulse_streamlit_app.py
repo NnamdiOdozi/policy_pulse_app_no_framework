@@ -24,11 +24,17 @@ st.set_page_config(
 # Load environment variables
 from dotenv import load_dotenv
 load_dotenv()
+from authlib.integrations.requests_client import OAuth2Session
 
 # Authentication token - in production you would use an environment variable
 # In a more secure setup, store this in an environment variable:
 # ACCESS_TOKEN = os.environ.get("ACCESS_TOKEN", "default_token_for_development")
-ACCESS_TOKEN = os.environ.get("ACCESS_TOKEN") # Change this to your desired token
+#ACCESS_TOKEN = os.environ.get("ACCESS_TOKEN") # Change this to your desired token
+
+
+
+
+
 
 # Initialize ALL session state variables - make this comprehensive
 if "authenticated" not in st.session_state:
