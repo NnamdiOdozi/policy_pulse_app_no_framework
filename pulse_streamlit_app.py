@@ -48,7 +48,7 @@ def auth0_login():
 
 def auth0_callback() -> bool:
     """Handle the callback from Auth0. Returns True if login completed."""
-    params = st.query_params()
+    params = st.query_params
     if "code" not in params or "state" not in params:
         return False
 
@@ -75,7 +75,7 @@ def auth0_callback() -> bool:
         "name":  userinfo.get("name"),
         "email": userinfo.get("email"),
     }
-    st.session_state.authenticated = True
+    #st.session_state.authenticated = True
     st.set_query_params()  # Clean URL
     return True
 
