@@ -32,7 +32,6 @@ AUTH0_CLIENT_SECRET = os.environ.get("AUTH0_CLIENT_SECRET")
 AUTH0_CALLBACK_URL = os.environ.get("AUTH0_CALLBACK_URL")
 
 def auth0_login():
-    """Redirect the browser to Auth0’s /authorize endpoint."""
     oauth = OAuth2Session(
         client_id=AUTH0_CLIENT_ID,
         client_secret=AUTH0_CLIENT_SECRET,
@@ -43,18 +42,13 @@ def auth0_login():
         f"https://{AUTH0_DOMAIN}/authorize"
     )
     st.session_state["auth0_state"] = state
-    st.query_params["_redirect"] = authorization_url
-
-    # Use direct JavaScript redirect - no st.rerun()
-    st.markdown(f"""
-    <script>
-    window.location.href = "{authorization_url}";
-    </script>
-    """, unsafe_allow_html=True)
     
-    st.stop()  # Stop execution here
-
-    #st.rerun() removed to stop infinte loop
+    # Mark that we've already redirected once
+    st.session_state["auth0_redirected"] = True
+    
+    # Use new query params API
+    st.query_params["_redirect"] = authorization_url
+    st.rerun()
 
 def auth0_callback() -> bool:
     """Handle the callback from Auth0. Returns True if login completed."""
@@ -94,10 +88,6 @@ def auth0_callback() -> bool:
 # In a more secure setup, store this in an environment variable:
 # ACCESS_TOKEN = os.environ.get("ACCESS_TOKEN", "default_token_for_development")
 #ACCESS_TOKEN = os.environ.get("ACCESS_TOKEN") # Change this to your desired token
-
-
-
-
 
 
 # Initialize ALL session state variables - make this comprehensive
@@ -390,14 +380,19 @@ def show_chat_interface():
 
 # Main app logic
 def main():
+    # Your updated main function with the auth0 flag logic
     if "user" not in st.session_state:
-        if not auth0_callback():
+        if not st.session_state.get("auth0_redirected", False):
             auth0_login()
-        return  # halt execution until login completes
-
-    # Show welcome and launch app
+            return
+        elif auth0_callback():
+            if "auth0_redirected" in st.session_state:
+                del st.session_state["auth0_redirected"]
+            st.rerun()
+        return
+    
     st.sidebar.success(f"Welcome, {st.session_state['user']['name']}")
     show_chat_interface()
 
 if __name__ == "__main__":
-    main()
+    main()  # ← This must stay!
