@@ -30,3 +30,11 @@ pillow==11.2.1
 streamlit==1.45.1
 pyreadline3==3.5.4
 authlib==1.6.0
+
+# Evals
+ragas
+datasets
+langsmith
+
+#futureagi==0.6.0
+#ai-evaluation==0.1.0

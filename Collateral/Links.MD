@@ -1,0 +1,1 @@
+https://theneuralmaze.substack.com/p/building-agent-projects-without-losing

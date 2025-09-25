@@ -13,20 +13,9 @@ The Equality Act 2010 (protection against pregnancy and maternity discrimination
 Pregnancy and Maternity Discrimination:
 Mitie Ltd: In a landmark case, Ms. N Hinds was awarded £350,000 after experiencing pregnancy discrimination. Her employer excluded her from meetings, unjustly criticized her performance, and failed to support her requests for reasonable adjustments during her pregnancy. The tribunal found that Mitie Ltd's actions led to constructive dismissal and discrimination. 
 wirehouse-es.com
-
-
-================================================================================
-CHUNK 2: Module 1 Lesson 3 Compliance legal and ethical considerations_chunk_1
-================================================================================
-
-wirehouse-es.com
 Event Medical Group: Lesley Coia won over £6,000 in compensation after her male boss persistently inquired about her pregnancy status, constituting sex-based discrimination. The tribunal rejected the employer's defense and highlighted the inappropriate nature of the questioning. 
 thescottishsun.co.uk
 
-
-================================================================================
-CHUNK 3: Module 1 Lesson 3 Compliance legal and ethical considerations_chunk_2
-================================================================================
 
 The Employment Rights Act 1996 (statutory rights for maternity leave, paternity leave, shared parental leave)
 
@@ -34,8 +23,15 @@ The Health and Safety at Work Act 1974 (employer responsibilities regarding work
 
 
 ================================================================================
-CHUNK 4: Module 1 Lesson 3 Compliance legal and ethical considerations_chunk_3
+CHUNK 2: Module 1 Lesson 3 Compliance legal and ethical considerations_chunk_1
 ================================================================================
+
+The Employment Rights Act 1996 (statutory rights for maternity leave, paternity leave, shared parental leave)
+
+The Health and Safety at Work Act 1974 (employer responsibilities regarding workplace adjustments for reproductive health conditions).
+
+
+
 
 The Flexible Working Regulations 2014 (right to request flexible working arrangements for health-related needs).
 04/03/2025
@@ -43,26 +39,19 @@ Several UK companies have faced significant reputational and financial repercuss
 2. Failure to Accommodate Reproductive Health Conditions:
 Properties on the Market: An employee suffering from endometriosis, which left her bedridden, was unfairly dismissed after her employer unilaterally withdrew a previously agreed-upon work-from-home arrangement. The employment tribunal awarded her £31,707.34, emphasizing the necessity for employers to accommodate health conditions like endometriosis. 
 thehrdirector.com
-
-
-================================================================================
-CHUNK 5: Module 1 Lesson 3 Compliance legal and ethical considerations_chunk_4
-================================================================================
-
-thehrdirector.com
 Undisclosed Financial Institution: A banker with endometriosis won a reasonable adjustments claim after her employer failed to accommodate her condition, leading to her redundancy during sick leave. The tribunal's decision underscored the importance of providing necessary adjustments for employees with health conditions. 
 personneltoday.com
 
-
-================================================================================
-CHUNK 6: Module 1 Lesson 3 Compliance legal and ethical considerations_chunk_5
-================================================================================
-
 EU:
-The EU Work-Life Balance Directive (minimum rights for parental leave, flexible working, and carers’ leave).
+The EU Work-Life Balance Directive (minimum rights for parental leave, tll me abu, and carers’ leave).
 The Pregnant Workers Directive (92/85/EEC) (maternity leave and workplace protections for pregnant employees).
 The Equal Treatment Directive (2006/54/EC) (prohibition of discrimination based on sex, including pregnancy and maternity).
 National laws in member states implementing these directives (e.g., Germany’s Mutterschutzgesetz, France’s Code du Travail maternity and parental leave provisions).
+
+
+================================================================================
+CHUNK 3: Module 1 Lesson 3 Compliance legal and ethical considerations_chunk_2
+================================================================================
 
 Recent Legal Cases and Repercussions:
 Discuss examples where companies have faced reputational and financial damage due to non-compliance with reproductive health-related workplace laws.
@@ -70,7 +59,7 @@ Highlight how failing to accommodate employees with conditions like endometriosi
 
 
 ================================================================================
-CHUNK 7: Module 1 Lesson 3 Compliance legal and ethical considerations_chunk_6
+CHUNK 4: Module 1 Lesson 3 Compliance legal and ethical considerations_chunk_3
 ================================================================================
 
 Several UK companies have faced significant reputational and financial repercussions due to non-compliance with reproductive health-related workplace laws:
@@ -78,14 +67,6 @@ Several UK companies have faced significant reputational and financial repercuss
 Properties on the Market: An employee suffering from endometriosis, which left her bedridden, was unfairly dismissed after her employer unilaterally withdrew a previously agreed-upon work-from-home arrangement. The employment tribunal awarded her £31,707.34, emphasizing the necessity for employers to accommodate health conditions like endometriosis. 
 thehrdirector.com
 Undisclosed Financial Institution: A banker with endometriosis won a reasonable adjustments claim after her employer failed to accommodate her condition, leading to her redundancy during sick leave. The tribunal's decision underscored the importance of providing necessary adjustments for employees with health conditions. 
-personneltoday.com
-3. Discrimination Related to Fertility Treatments:
-
-
-================================================================================
-CHUNK 8: Module 1 Lesson 3 Compliance legal and ethical considerations_chunk_7
-================================================================================
-
 personneltoday.com
 3. Discrimination Related to Fertility Treatments:
 Care Needs Ltd: Mrs. Benton was dismissed after undergoing IVF treatment and suffering a miscarriage. She claimed that her dismissal was due to her IVF treatment rather than a genuine redundancy situation. The employment tribunal found that she had been harassed and victimized by her employer because of her IVF treatment, leading to a successful claim against the company. 
@@ -95,12 +76,16 @@ Recent Developments in Reproductive Health Workplace Rights
 Statistic Highlight:
 Organizations that fail to implement comprehensive reproductive health policies may face up to a 10% increase in turnover-related costs due to legal disputes, absenteeism, and reputational harm.
 Ethical Considerations (10 minutes)
+The need for fairness, privacy, and equal access to reproductive health benefits.
 
 
 ================================================================================
-CHUNK 9: Module 1 Lesson 3 Compliance legal and ethical considerations_chunk_8
+CHUNK 5: Module 1 Lesson 3 Compliance legal and ethical considerations_chunk_4
 ================================================================================
 
+Recent Developments in Reproductive Health Workplace Rights
+Statistic Highlight:
+Organizations that fail to implement comprehensive reproductive health policies may face up to a 10% increase in turnover-related costs due to legal disputes, absenteeism, and reputational harm.
 Ethical Considerations (10 minutes)
 The need for fairness, privacy, and equal access to reproductive health benefits.
 How an ethical approach strengthens company culture and employee retention while reducing risk.
@@ -114,14 +99,14 @@ Conclusion: Brief Q&A on implementing legally sound, ethical reproductive health
 
 
 ================================================================================
-CHUNK 10: Module 1 Lesson 3 Compliance legal and ethical considerations_chunk_9
+CHUNK 6: Module 1 Lesson 3 Compliance legal and ethical considerations_chunk_5
 ================================================================================
 
 Break (10 minutes)
 
 
 ================================================================================
-CHUNK 11: Reproductive and Fertility Health at Work Course module 1_chunk_0
+CHUNK 7: Reproductive and Fertility Health at Work Course module 1_chunk_0
 ================================================================================
 
 Module 1 Course Script 
@@ -141,11 +126,6 @@ Recognize the impact of reproductive health challenges on workplace performance,
 Learn how organizations can create a culture that supports reproductive and fertility health.
 Explore actionable steps for integrating reproductive health policies into business strategy.
 
-
-================================================================================
-CHUNK 12: Reproductive and Fertility Health at Work Course module 1_chunk_1
-================================================================================
-
 1. Introduction: Why This Matters for Leaders (5-10 min)
 Welcome & Course Overview
 Reproductive Health as a Business Issue
@@ -155,11 +135,6 @@ The Business Case
 The cost of ignoring reproductive and fertility health in the workplace.
 Employee retention, absenteeism, and presenteeism statistics.
 Case studies: Companies benefiting from reproductive health policies.
-
-
-================================================================================
-CHUNK 13: Reproductive and Fertility Health at Work Course module 1_chunk_2
-================================================================================
 
 2. The Hidden Impact of Reproductive Health on Work (10-15 min)
 Key Challenges Employees Face
@@ -174,7 +149,7 @@ Silent struggles—why employees don’t disclose health challenges.
 
 
 ================================================================================
-CHUNK 14: Reproductive and Fertility Health at Work Course module 1_chunk_3
+CHUNK 8: Reproductive and Fertility Health at Work Course module 1_chunk_1
 ================================================================================
 
 3. Strategic Advantages for Companies Investing in Reproductive Health (10-15 min)
@@ -198,11 +173,6 @@ Embedding reproductive health into DEI & Wellbeing strategy.
 Setting the tone for psychological safety.
 Allocating budget and measuring ROI.
 
-
-================================================================================
-CHUNK 15: Reproductive and Fertility Health at Work Course module 1_chunk_4
-================================================================================
-
 5. Next Steps & Call to Action (5-10 min)
 How to Assess Your Company's Readiness
 Quick self-assessment for leaders.
@@ -224,7 +194,7 @@ Which response do you prefer? Responses may take a moment to load.
 
 
 ================================================================================
-CHUNK 16: Reproductive and Fertility Health at Work Course module 1_chunk_5
+CHUNK 9: Reproductive and Fertility Health at Work Course module 1_chunk_2
 ================================================================================
 
 Updated to include case studies version 1 from Chat GPT
@@ -242,11 +212,6 @@ Recognize how reproductive health challenges impact workplace performance, reten
 Learn actionable strategies to integrate reproductive health policies into business strategy.
 See real-world examples and case studies demonstrating the positive impact of these initiatives.
 
-
-================================================================================
-CHUNK 17: Reproductive and Fertility Health at Work Course module 1_chunk_6
-================================================================================
-
 1. Introduction: Why This Matters for Leaders (5-10 min)
 Welcome & Course Overview
 Reproductive Health as a Business Imperative
@@ -256,11 +221,6 @@ The Business Case
 Hidden costs: absenteeism, turnover, and reduced performance.
 Overview of key statistics and market research findings.
 Brief mention of successful companies that have embraced these policies.
-
-
-================================================================================
-CHUNK 18: Reproductive and Fertility Health at Work Course module 1_chunk_7
-================================================================================
 
 2. The Hidden Impact of Reproductive Health on Work (10-15 min)
 Key Challenges Employees Face
@@ -275,7 +235,7 @@ The “silent struggle”: why employees may not disclose these challenges.
 
 
 ================================================================================
-CHUNK 19: Reproductive and Fertility Health at Work Course module 1_chunk_8
+CHUNK 10: Reproductive and Fertility Health at Work Course module 1_chunk_3
 ================================================================================
 
 3. Strategic Advantages for Companies Investing in Reproductive Health (10-15 min)
@@ -287,11 +247,6 @@ Lower attrition and higher loyalty through comprehensive benefits.
 Legal & Compliance Considerations
 Navigating evolving regulations and mitigating discrimination risks.
 
-
-================================================================================
-CHUNK 20: Reproductive and Fertility Health at Work Course module 1_chunk_9
-================================================================================
-
 4. Case Studies & Real-World Examples (10-15 min)
 Case Study: Fortune 500 Pioneer (Company X)
 Overview: Company X implemented a comprehensive fertility program that included benefits such as fertility preservation, IVF support, and flexible leave policies.
@@ -300,20 +255,13 @@ Case Study: Tech Innovator (Company Y)
 Overview: Recognizing the competitive talent market, Company Y introduced subsidized fertility treatments, on-site counseling, and digital support tools.
 Outcomes: This initiative not only improved employee satisfaction but also provided a competitive edge in attracting top-tier talent, with significant improvements in workplace morale.
 Case Study: Multinational Leader in Women’s Health (Company Z)
-
-
-================================================================================
-CHUNK 21: Reproductive and Fertility Health at Work Course module 1_chunk_10
-================================================================================
-
-Case Study: Multinational Leader in Women’s Health (Company Z)
 Overview: Company Z integrated a robust menopause support program alongside flexible scheduling and wellness initiatives, addressing the needs of mid-career professionals.
 Outcomes: The program led to notable improvements in workforce productivity, a reduction in absenteeism, and received positive media recognition for its progressive policies.
 These examples, drawn from industry research and documented case studies, illustrate the tangible benefits that organizations have realized by prioritizing reproductive and fertility health.
 
 
 ================================================================================
-CHUNK 22: Reproductive and Fertility Health at Work Course module 1_chunk_11
+CHUNK 11: Reproductive and Fertility Health at Work Course module 1_chunk_4
 ================================================================================
 
 5. Creating a Reproductive Health-Inclusive Workplace (10-15 min)
@@ -325,11 +273,6 @@ Role of Leadership in Driving Change
 Embedding reproductive health into DEI and wellbeing strategies.
 Leading by example to create a culture of openness and psychological safety.
 Allocating budget and establishing clear ROI metrics.
-
-
-================================================================================
-CHUNK 23: Reproductive and Fertility Health at Work Course module 1_chunk_12
-================================================================================
 
 6. Next Steps & Call to Action (5-10 min)
 Assessing Your Company’s Readiness
@@ -346,7 +289,7 @@ Great! Here are some real-world case studies and company examples to integrate i
 
 
 ================================================================================
-CHUNK 24: Reproductive and Fertility Health at Work Course module 1_chunk_13
+CHUNK 12: Reproductive and Fertility Health at Work Course module 1_chunk_5
 ================================================================================
 
 1. Case Study: Unilever – Comprehensive Menopause & Fertility Support
@@ -362,11 +305,6 @@ Higher engagement in leadership programs for women over 40.
 Lesson for Executives:
 Addressing reproductive health improves retention and leadership diversity.
 
-
-================================================================================
-CHUNK 25: Reproductive and Fertility Health at Work Course module 1_chunk_14
-================================================================================
-
 2. Case Study: Google – Family-Forming Benefits for All Genders
 Challenge:
 Google recognized that traditional health benefits didn’t support diverse family structures, particularly same-sex couples and employees needing fertility treatments.
@@ -379,11 +317,6 @@ Higher satisfaction scores in employee well-being surveys.
 Improved DEI scores, especially among LGBTQ+ employees.
 Lesson for Executives:
 Providing inclusive benefits attracts and retains top talent across all demographics.
-
-
-================================================================================
-CHUNK 26: Reproductive and Fertility Health at Work Course module 1_chunk_15
-================================================================================
 
 3. Case Study: Co-op – Flexible Working for Employees with Endometriosis
 Challenge:
@@ -400,7 +333,7 @@ Flexible policies can boost productivity and reduce sick leave costs.
 
 
 ================================================================================
-CHUNK 27: Reproductive and Fertility Health at Work Course module 1_chunk_16
+CHUNK 13: Reproductive and Fertility Health at Work Course module 1_chunk_6
 ================================================================================
 
 4. Case Study: PwC – Fertility & Pregnancy Loss Support
@@ -416,11 +349,6 @@ Higher return-to-work rates after pregnancy loss.
 Lesson for Executives:
 Acknowledging reproductive challenges fosters a more loyal workforce.
 
-
-================================================================================
-CHUNK 28: Reproductive and Fertility Health at Work Course module 1_chunk_17
-================================================================================
-
 5. Case Study: NatWest – Manager Training on Reproductive Health
 Challenge:
 Employees with menstrual and reproductive health conditions struggled with manager understanding and accommodations.
@@ -434,11 +362,6 @@ More open conversations leading to tailored support solutions.
 Lesson for Executives:
 Manager education is key to creating a reproductive health-friendly workplace.
 
-
-================================================================================
-CHUNK 29: Reproductive and Fertility Health at Work Course module 1_chunk_18
-================================================================================
-
 How These Case Studies Fit into the Course:
 Use them in Module 2 (The Hidden Impact of Reproductive Health at Work) to highlight real-world workplace challenges.
 Feature them in Module 3 (Strategic Advantages for Companies) to showcase how leading firms are benefiting.
@@ -450,7 +373,7 @@ Bottom of Form
 
 
 ================================================================================
-CHUNK 30: Script Full curriculum with case studies from Chat GPT_chunk_0
+CHUNK 14: Script Full curriculum with case studies from Chat GPT_chunk_0
 ================================================================================
 
 New script based on full curriculum
@@ -486,16 +409,6 @@ Measuring Effectiveness and Outcomes
 Lesson 8: Evaluating Internal Programs
 Lesson 9: Continuous Improvement Framework
 
-
-================================================================================
-CHUNK 31: Script Full curriculum with case studies from Chat GPT_chunk_1
-================================================================================
-
-Module 5
-Measuring Effectiveness and Outcomes
-Lesson 8: Evaluating Internal Programs
-Lesson 9: Continuous Improvement Framework
-
 Module 6
 Building a Lasting Impact Internally and Externally
 Lesson 10: Gaining Buy-In for New Initiatives
@@ -515,7 +428,7 @@ Share a couple of words on personal expectations.
 
 
 ================================================================================
-CHUNK 32: Script Full curriculum with case studies from Chat GPT_chunk_2
+CHUNK 15: Script Full curriculum with case studies from Chat GPT_chunk_1
 ================================================================================
 
 Module 1: The Case for Reproductive Health at Work
@@ -530,14 +443,6 @@ Emphasize that reproductive health is not a “women’s issue” alone—it aff
 Trends & Current Data (15 minutes):
 Fertility Challenges:
 Worldwide, infertility rates remain steady, yet the demand for assisted reproductive technologies (ART) like IVF has risen by 20–25% in the past decade.
-
-
-================================================================================
-CHUNK 33: Script Full curriculum with case studies from Chat GPT_chunk_3
-================================================================================
-
-Fertility Challenges:
-Worldwide, infertility rates remain steady, yet the demand for assisted reproductive technologies (ART) like IVF has risen by 20–25% in the past decade.
 The average cost of an IVF cycle ranges from $12,000 to $15,000, often requiring multiple cycles for success.
 Menopause & Menstrual Health:
 Approximately 90% of women experience menopausal symptoms, with 30–40% suffering from severe symptoms that can affect work performance.
@@ -547,14 +452,6 @@ Studies show that companies with robust reproductive health programs see up to a
 Interactive Exercise (10 minutes):
 Group Poll & Discussion:
 Ask: “Which reproductive health challenge do you believe impacts your organization the most?” (Options: infertility, menstrual disorders, menopause, etc.)
-
-
-================================================================================
-CHUNK 34: Script Full curriculum with case studies from Chat GPT_chunk_4
-================================================================================
-
-Group Poll & Discussion:
-Ask: “Which reproductive health challenge do you believe impacts your organization the most?” (Options: infertility, menstrual disorders, menopause, etc.)
 Facilitate a brief discussion on why these issues often remain under-addressed in workplace policies.
 Wrap-Up & Q&A (10 minutes):
 Summarize key points.
@@ -562,7 +459,7 @@ Open the floor for questions regarding definitions and trends.
 
 
 ================================================================================
-CHUNK 35: Script Full curriculum with case studies from Chat GPT_chunk_5
+CHUNK 16: Script Full curriculum with case studies from Chat GPT_chunk_2
 ================================================================================
 
 Lesson 2: Assessing Current Practices (45 minutes)
@@ -579,14 +476,6 @@ Inadequate manager training on addressing reproductive health needs.
 Minimal integration of reproductive health into overall diversity and inclusion strategies.
 Interactive Self-Assessment (10 minutes):
 Participants complete a short questionnaire or use an online tool to evaluate their company’s current practices.
-
-
-================================================================================
-CHUNK 36: Script Full curriculum with case studies from Chat GPT_chunk_6
-================================================================================
-
-Interactive Self-Assessment (10 minutes):
-Participants complete a short questionnaire or use an online tool to evaluate their company’s current practices.
 Breakout small groups: Share one area where they see room for improvement and one strength.
 Summary & Q&A (10 minutes):
 Recap assessment insights.
@@ -594,7 +483,7 @@ Field any questions about assessing current practices.
 
 
 ================================================================================
-CHUNK 37: Script Full curriculum with case studies from Chat GPT_chunk_7
+CHUNK 17: Script Full curriculum with case studies from Chat GPT_chunk_3
 ================================================================================
 
 Lesson 3: Compliance, Legal, and Ethical Considerations (45 minutes)
@@ -609,28 +498,17 @@ Address the need for fairness, privacy, and equal access to reproductive health 
 Discuss how an ethical approach not only reduces risk but also enhances company culture and employee loyalty.
 Interactive Case Study (15 minutes):
 Present a case study of a mid-size company that faced legal challenges due to inadequate reproductive health support.
-
-
-================================================================================
-CHUNK 38: Script Full curriculum with case studies from Chat GPT_chunk_8
-================================================================================
-
-Interactive Case Study (15 minutes):
-Present a case study of a mid-size company that faced legal challenges due to inadequate reproductive health support.
 Small group discussion: What could have been done differently to mitigate risks?
 Conclude with a brief Q&A.
-
-
-================================================================================
-CHUNK 39: Script Full curriculum with case studies from Chat GPT_chunk_9
-================================================================================
 
 Break (10 minutes)
 
 
 ================================================================================
-CHUNK 40: Script Full curriculum with case studies from Chat GPT_chunk_10
+CHUNK 18: Script Full curriculum with case studies from Chat GPT_chunk_4
 ================================================================================
+
+Break (10 minutes)
 
 Module 2: Creating Your Reproductive and Fertility Health at Work Guide
 (Duration: ~1 hour 30 minutes)
@@ -646,14 +524,6 @@ Step 3: Engage stakeholders across HR, legal, and communications.
 Step 4: Draft policy elements (e.g., fertility treatment support, flexible work during menopause, dedicated health leave).
 Step 5: Communicate the guide internally using clear, accessible language.
 Supporting Statistic:
-
-
-================================================================================
-CHUNK 41: Script Full curriculum with case studies from Chat GPT_chunk_11
-================================================================================
-
-Step 5: Communicate the guide internally using clear, accessible language.
-Supporting Statistic:
 Research shows that involving employees in policy development increases benefit uptake by up to 30%.
 Interactive Template Walk-Through (20 minutes):
 Distribute a sample template for a reproductive health policy.
@@ -665,7 +535,7 @@ Invite questions and discuss any challenges participants foresee in developing t
 
 
 ================================================================================
-CHUNK 42: Script Full curriculum with case studies from Chat GPT_chunk_12
+CHUNK 19: Script Full curriculum with case studies from Chat GPT_chunk_5
 ================================================================================
 
 Lesson 5: Re-Assessing Current Practices (Refinement Phase) (45 minutes)
@@ -681,11 +551,6 @@ Groups present one key gap and a proposed action plan.
 Facilitate a discussion on common themes and strategic next steps.
 Wrap-Up (5 minutes):
 Summarize the refinement process and stress the importance of continual reassessment.
-
-
-================================================================================
-CHUNK 43: Script Full curriculum with case studies from Chat GPT_chunk_13
-================================================================================
 
 Module 3: Engaging Executives and Stakeholders
 (Duration: ~1 hour 30 minutes)
@@ -705,7 +570,7 @@ Recap the importance of having a clear stakeholder map to drive initiatives forw
 
 
 ================================================================================
-CHUNK 44: Script Full curriculum with case studies from Chat GPT_chunk_14
+CHUNK 20: Script Full curriculum with case studies from Chat GPT_chunk_6
 ================================================================================
 
 Lesson 7: Communicating Value and Impact (45 minutes)
@@ -721,13 +586,6 @@ In pairs or small groups, participants practice pitching their reproductive heal
 Encourage using visual aids, storytelling, and data highlights.
 Debrief & Q&A (5 minutes):
 Invite reflections on the role-play and discuss tips for refining communication strategies.
-
-Break (10 minutes)
-
-
-================================================================================
-CHUNK 45: Script Full curriculum with case studies from Chat GPT_chunk_15
-================================================================================
 
 Break (10 minutes)
 
@@ -747,7 +605,7 @@ Facilitator provides feedback and additional tips.
 
 
 ================================================================================
-CHUNK 46: Script Full curriculum with case studies from Chat GPT_chunk_16
+CHUNK 21: Script Full curriculum with case studies from Chat GPT_chunk_7
 ================================================================================
 
 Lesson 7: Enhancing Communication for Greater Impact (45 minutes)
@@ -761,11 +619,6 @@ Discussion & Wrap-Up (10 minutes):
 Reflect on lessons learned.
 Summarize key techniques for maximizing the impact of communication.
 Q&A session to address specific challenges in messaging.
-
-
-================================================================================
-CHUNK 47: Script Full curriculum with case studies from Chat GPT_chunk_17
-================================================================================
 
 Module 5: Measuring Effectiveness and Outcomes
 (Duration: ~1 hour 30 minutes)
@@ -782,21 +635,13 @@ Organizations with systematic evaluation processes report up to a 20% improvemen
 Interactive Data Exercise (15 minutes):
 Provide a sample dataset (anonymized data showing pre- and post-initiative metrics).
 In small groups, participants calculate improvements and identify areas for further intervention.
-
-
-================================================================================
-CHUNK 48: Script Full curriculum with case studies from Chat GPT_chunk_18
-================================================================================
-
-Provide a sample dataset (anonymized data showing pre- and post-initiative metrics).
-In small groups, participants calculate improvements and identify areas for further intervention.
 Wrap-Up & Q&A (5 minutes):
 Summarize the importance of regular evaluation.
 Invite questions on data collection strategies.
 
 
 ================================================================================
-CHUNK 49: Script Full curriculum with case studies from Chat GPT_chunk_19
+CHUNK 22: Script Full curriculum with case studies from Chat GPT_chunk_8
 ================================================================================
 
 Lesson 9: Continuous Improvement Framework (45 minutes)
@@ -818,8 +663,10 @@ Break (10 minutes)
 
 
 ================================================================================
-CHUNK 50: Script Full curriculum with case studies from Chat GPT_chunk_20
+CHUNK 23: Script Full curriculum with case studies from Chat GPT_chunk_9
 ================================================================================
+
+Break (10 minutes)
 
 Module 6: Building a Lasting Impact Internally and Externally
 (Duration: ~1 hour 30 minutes)
@@ -836,21 +683,13 @@ Present clear, actionable steps.
 Provide a sample pitch outline and real-world examples (e.g., Unilever’s approach to menopause support that led to a 9% retention increase).
 Interactive Pitch Workshop (15 minutes):
 Participants develop a mini-pitch for a new reproductive health initiative.
-
-
-================================================================================
-CHUNK 51: Script Full curriculum with case studies from Chat GPT_chunk_21
-================================================================================
-
-Interactive Pitch Workshop (15 minutes):
-Participants develop a mini-pitch for a new reproductive health initiative.
 In small groups, share and refine pitches based on peer feedback.
 Wrap-Up & Q&A (5 minutes):
 Summarize key techniques and open the floor for questions.
 
 
 ================================================================================
-CHUNK 52: Script Full curriculum with case studies from Chat GPT_chunk_22
+CHUNK 24: Script Full curriculum with case studies from Chat GPT_chunk_10
 ================================================================================
 
 Lesson 11: Leveraging Recognition and Career Growth (45 minutes)
@@ -864,21 +703,9 @@ Discuss how external recognition (awards, industry partnerships) reinforces both
 Interactive Brainstorming Session (15 minutes):
 In breakout groups, participants discuss ways to leverage their initiatives for external recognition (e.g., submitting for industry awards, hosting panel discussions, publishing case studies).
 Each group shares one innovative idea.
-
-
-================================================================================
-CHUNK 53: Script Full curriculum with case studies from Chat GPT_chunk_23
-================================================================================
-
-Each group shares one innovative idea.
 Wrap-Up & Final Q&A (5 minutes):
 Recap the linkage between personal leadership growth and successful reproductive health initiatives.
 Address any final questions.
-
-
-================================================================================
-CHUNK 54: Script Full curriculum with case studies from Chat GPT_chunk_24
-================================================================================
 
 Final Wrap-Up and Conclusion (30 minutes)
 Course Recap (10 minutes):
@@ -894,7 +721,7 @@ Thank the participants and announce any follow-up sessions or certificate distri
 
 
 ================================================================================
-CHUNK 55: Script Full curriculum with case studies from Chat GPT_chunk_25
+CHUNK 25: Script Full curriculum with case studies from Chat GPT_chunk_11
 ================================================================================
 
 This detailed script is designed to not only present information and statistics (with trends such as a 10–15% prevalence of infertility, a 25% reduction in turnover with comprehensive programs, and faster implementation with executive buy-in) but also to actively engage your audience through exercises, workshops, role-plays, and group discussions. The blend of data, interactive content, and real-world case studies ensures that the course remains engaging, informative, and actionable for all participants.
@@ -902,7 +729,7 @@ o3-mini
 
 
 ================================================================================
-CHUNK 56: Script v3 module 1 Full curriculum with case studies from Chat GPT_chunk_0
+CHUNK 26: Script v3 module 1 Full curriculum with case studies from Chat GPT_chunk_0
 ================================================================================
 
 New script based on full curriculum
@@ -934,16 +761,6 @@ Measuring Effectiveness and Outcomes
 Lesson 8: Evaluating Internal Programs
 Lesson 9: Continuous Improvement Framework
 
-
-================================================================================
-CHUNK 57: Script v3 module 1 Full curriculum with case studies from Chat GPT_chunk_1
-================================================================================
-
-Module 5
-Measuring Effectiveness and Outcomes
-Lesson 8: Evaluating Internal Programs
-Lesson 9: Continuous Improvement Framework
-
 Module 6
 Building a Lasting Impact Internally and Externally
 Lesson 10: Gaining Buy-In for New Initiatives
@@ -961,9 +778,15 @@ Icebreaker Activity:
 Quick poll: “On a scale of 1-10, how confident are you that your organization fully supports reproductive and fertility health?”
 Share a couple of words on personal expectations.
 
+Module 1: The Case for Reproductive Health at Work
+(Duration: ~2 hours total)
+Lesson 1: Understanding Reproductive and Fertility Health at Work (45 minutes)
+Introduction & Definitions (10 minutes):
+When you think of reproductive and fertility health at work, what comes to mind?
+
 
 ================================================================================
-CHUNK 58: Script v3 module 1 Full curriculum with case studies from Chat GPT_chunk_2
+CHUNK 27: Script v3 module 1 Full curriculum with case studies from Chat GPT_chunk_1
 ================================================================================
 
 Module 1: The Case for Reproductive Health at Work
@@ -979,21 +802,18 @@ Key Statistic: (for your stats, reference the slides and recording from the McKi
 
 83% of employees say health insurance is very or extremely important in deciding whether to stay in or change jobs (EBRI)
 
-
-================================================================================
-CHUNK 59: Script v3 module 1 Full curriculum with case studies from Chat GPT_chunk_3
-================================================================================
-
-83% of employees say health insurance is very or extremely important in deciding whether to stay in or change jobs (EBRI)
-
 According to the CDC and WHO, 10–15% of couples experience infertility; roughly 1 in 6 couples faces challenges conceiving.
 In the U.S., about 12% of women have experienced infertility, with challenges increasing with age.
 Emphasize that reproductive health is not a “women’s issue” alone—it affects productivity, mental health, and overall workplace dynamics.
 
 
 ================================================================================
-CHUNK 60: Script v3 module 1 Full curriculum with case studies from Chat GPT_chunk_4
+CHUNK 28: Script v3 module 1 Full curriculum with case studies from Chat GPT_chunk_2
 ================================================================================
+
+According to the CDC and WHO, 10–15% of couples experience infertility; roughly 1 in 6 couples faces challenges conceiving.
+In the U.S., about 12% of women have experienced infertility, with challenges increasing with age.
+Emphasize that reproductive health is not a “women’s issue” alone—it affects productivity, mental health, and overall workplace dynamics.
 
 Trends & Current Data (15 minutes):
 Fertility Challenges:
@@ -1006,14 +826,6 @@ Workplace Impact:
 Studies show that companies with robust reproductive health programs see up to a 25% decrease in turnover among female employees and a 10–15% reduction in absenteeism.
 Interactive Exercise (10 minutes):
 Group Poll & Discussion:
-
-
-================================================================================
-CHUNK 61: Script v3 module 1 Full curriculum with case studies from Chat GPT_chunk_5
-================================================================================
-
-Interactive Exercise (10 minutes):
-Group Poll & Discussion:
 Ask: “Which reproductive health challenge do you believe impacts your organization the most?” (Options: infertility, menstrual disorders, menopause, etc.)
 Facilitate a brief discussion on why these issues often remain under-addressed in workplace policies.
 Wrap-Up & Q&A (10 minutes):
@@ -1022,7 +834,7 @@ Open the floor for questions regarding definitions and trends.
 
 
 ================================================================================
-CHUNK 62: Script v3 module 1 Full curriculum with case studies from Chat GPT_chunk_6
+CHUNK 29: Script v3 module 1 Full curriculum with case studies from Chat GPT_chunk_3
 ================================================================================
 
 Lesson 2: Assessing Current Practices (45 minutes)
@@ -1039,14 +851,6 @@ Inadequate manager training on addressing reproductive health needs.
 Minimal integration of reproductive health into overall diversity and inclusion strategies.
 Interactive Self-Assessment (10 minutes):
 Participants complete a short questionnaire or use an online tool to evaluate their company’s current practices.
-
-
-================================================================================
-CHUNK 63: Script v3 module 1 Full curriculum with case studies from Chat GPT_chunk_7
-================================================================================
-
-Interactive Self-Assessment (10 minutes):
-Participants complete a short questionnaire or use an online tool to evaluate their company’s current practices.
 Breakout small groups: Share one area where they see room for improvement and one strength.
 Summary & Q&A (10 minutes):
 Recap assessment insights.
@@ -1054,7 +858,7 @@ Field any questions about assessing current practices.
 
 
 ================================================================================
-CHUNK 64: Script v3 module 1 Full curriculum with case studies from Chat GPT_chunk_8
+CHUNK 30: Script v3 module 1 Full curriculum with case studies from Chat GPT_chunk_4
 ================================================================================
 
 Lesson 3: Compliance, Legal, and Ethical Considerations (45 minutes)
@@ -1069,28 +873,17 @@ Address the need for fairness, privacy, and equal access to reproductive health 
 Discuss how an ethical approach not only reduces risk but also enhances company culture and employee loyalty.
 Interactive Case Study (15 minutes):
 Present a case study of a mid-size company that faced legal challenges due to inadequate reproductive health support.
-
-
-================================================================================
-CHUNK 65: Script v3 module 1 Full curriculum with case studies from Chat GPT_chunk_9
-================================================================================
-
-Interactive Case Study (15 minutes):
-Present a case study of a mid-size company that faced legal challenges due to inadequate reproductive health support.
 Small group discussion: What could have been done differently to mitigate risks?
 Conclude with a brief Q&A.
-
-
-================================================================================
-CHUNK 66: Script v3 module 1 Full curriculum with case studies from Chat GPT_chunk_10
-================================================================================
 
 Break (10 minutes)
 
 
 ================================================================================
-CHUNK 67: Script v3 module 1 Full curriculum with case studies from Chat GPT_chunk_11
+CHUNK 31: Script v3 module 1 Full curriculum with case studies from Chat GPT_chunk_5
 ================================================================================
+
+Break (10 minutes)
 
 Module 2: Creating Your Reproductive and Fertility Health at Work Guide
 (Duration: ~1 hour 30 minutes)
@@ -1106,14 +899,6 @@ Step 3: Engage stakeholders across HR, legal, and communications.
 Step 4: Draft policy elements (e.g., fertility treatment support, flexible work during menopause, dedicated health leave).
 Step 5: Communicate the guide internally using clear, accessible language.
 Supporting Statistic:
-
-
-================================================================================
-CHUNK 68: Script v3 module 1 Full curriculum with case studies from Chat GPT_chunk_12
-================================================================================
-
-Step 5: Communicate the guide internally using clear, accessible language.
-Supporting Statistic:
 Research shows that involving employees in policy development increases benefit uptake by up to 30%.
 Interactive Template Walk-Through (20 minutes):
 Distribute a sample template for a reproductive health policy.
@@ -1125,7 +910,7 @@ Invite questions and discuss any challenges participants foresee in developing t
 
 
 ================================================================================
-CHUNK 69: Script v3 module 1 Full curriculum with case studies from Chat GPT_chunk_13
+CHUNK 32: Script v3 module 1 Full curriculum with case studies from Chat GPT_chunk_6
 ================================================================================
 
 Lesson 5: Re-Assessing Current Practices (Refinement Phase) (45 minutes)
@@ -1141,11 +926,6 @@ Groups present one key gap and a proposed action plan.
 Facilitate a discussion on common themes and strategic next steps.
 Wrap-Up (5 minutes):
 Summarize the refinement process and stress the importance of continual reassessment.
-
-
-================================================================================
-CHUNK 70: Script v3 module 1 Full curriculum with case studies from Chat GPT_chunk_14
-================================================================================
 
 Module 3: Engaging Executives and Stakeholders
 (Duration: ~1 hour 30 minutes)
@@ -1165,7 +945,7 @@ Recap the importance of having a clear stakeholder map to drive initiatives forw
 
 
 ================================================================================
-CHUNK 71: Script v3 module 1 Full curriculum with case studies from Chat GPT_chunk_15
+CHUNK 33: Script v3 module 1 Full curriculum with case studies from Chat GPT_chunk_7
 ================================================================================
 
 Lesson 7: Communicating Value and Impact (45 minutes)
@@ -1181,13 +961,6 @@ In pairs or small groups, participants practice pitching their reproductive heal
 Encourage using visual aids, storytelling, and data highlights.
 Debrief & Q&A (5 minutes):
 Invite reflections on the role-play and discuss tips for refining communication strategies.
-
-Break (10 minutes)
-
-
-================================================================================
-CHUNK 72: Script v3 module 1 Full curriculum with case studies from Chat GPT_chunk_16
-================================================================================
 
 Break (10 minutes)
 
@@ -1207,7 +980,7 @@ Facilitator provides feedback and additional tips.
 
 
 ================================================================================
-CHUNK 73: Script v3 module 1 Full curriculum with case studies from Chat GPT_chunk_17
+CHUNK 34: Script v3 module 1 Full curriculum with case studies from Chat GPT_chunk_8
 ================================================================================
 
 Lesson 7: Enhancing Communication for Greater Impact (45 minutes)
@@ -1221,11 +994,6 @@ Discussion & Wrap-Up (10 minutes):
 Reflect on lessons learned.
 Summarize key techniques for maximizing the impact of communication.
 Q&A session to address specific challenges in messaging.
-
-
-================================================================================
-CHUNK 74: Script v3 module 1 Full curriculum with case studies from Chat GPT_chunk_18
-================================================================================
 
 Module 5: Measuring Effectiveness and Outcomes
 (Duration: ~1 hour 30 minutes)
@@ -1242,21 +1010,13 @@ Organizations with systematic evaluation processes report up to a 20% improvemen
 Interactive Data Exercise (15 minutes):
 Provide a sample dataset (anonymized data showing pre- and post-initiative metrics).
 In small groups, participants calculate improvements and identify areas for further intervention.
-
-
-================================================================================
-CHUNK 75: Script v3 module 1 Full curriculum with case studies from Chat GPT_chunk_19
-================================================================================
-
-Provide a sample dataset (anonymized data showing pre- and post-initiative metrics).
-In small groups, participants calculate improvements and identify areas for further intervention.
 Wrap-Up & Q&A (5 minutes):
 Summarize the importance of regular evaluation.
 Invite questions on data collection strategies.
 
 
 ================================================================================
-CHUNK 76: Script v3 module 1 Full curriculum with case studies from Chat GPT_chunk_20
+CHUNK 35: Script v3 module 1 Full curriculum with case studies from Chat GPT_chunk_9
 ================================================================================
 
 Lesson 9: Continuous Improvement Framework (45 minutes)
@@ -1278,8 +1038,10 @@ Break (10 minutes)
 
 
 ================================================================================
-CHUNK 77: Script v3 module 1 Full curriculum with case studies from Chat GPT_chunk_21
+CHUNK 36: Script v3 module 1 Full curriculum with case studies from Chat GPT_chunk_10
 ================================================================================
+
+Break (10 minutes)
 
 Module 6: Building a Lasting Impact Internally and Externally
 (Duration: ~1 hour 30 minutes)
@@ -1296,21 +1058,13 @@ Present clear, actionable steps.
 Provide a sample pitch outline and real-world examples (e.g., Unilever’s approach to menopause support that led to a 9% retention increase).
 Interactive Pitch Workshop (15 minutes):
 Participants develop a mini-pitch for a new reproductive health initiative.
-
-
-================================================================================
-CHUNK 78: Script v3 module 1 Full curriculum with case studies from Chat GPT_chunk_22
-================================================================================
-
-Interactive Pitch Workshop (15 minutes):
-Participants develop a mini-pitch for a new reproductive health initiative.
 In small groups, share and refine pitches based on peer feedback.
 Wrap-Up & Q&A (5 minutes):
 Summarize key techniques and open the floor for questions.
 
 
 ================================================================================
-CHUNK 79: Script v3 module 1 Full curriculum with case studies from Chat GPT_chunk_23
+CHUNK 37: Script v3 module 1 Full curriculum with case studies from Chat GPT_chunk_11
 ================================================================================
 
 Lesson 11: Leveraging Recognition and Career Growth (45 minutes)
@@ -1324,21 +1078,9 @@ Discuss how external recognition (awards, industry partnerships) reinforces both
 Interactive Brainstorming Session (15 minutes):
 In breakout groups, participants discuss ways to leverage their initiatives for external recognition (e.g., submitting for industry awards, hosting panel discussions, publishing case studies).
 Each group shares one innovative idea.
-
-
-================================================================================
-CHUNK 80: Script v3 module 1 Full curriculum with case studies from Chat GPT_chunk_24
-================================================================================
-
-Each group shares one innovative idea.
 Wrap-Up & Final Q&A (5 minutes):
 Recap the linkage between personal leadership growth and successful reproductive health initiatives.
 Address any final questions.
-
-
-================================================================================
-CHUNK 81: Script v3 module 1 Full curriculum with case studies from Chat GPT_chunk_25
-================================================================================
 
 Final Wrap-Up and Conclusion (30 minutes)
 Course Recap (10 minutes):
@@ -1354,7 +1096,7 @@ Thank the participants and announce any follow-up sessions or certificate distri
 
 
 ================================================================================
-CHUNK 82: Script v3 module 1 Full curriculum with case studies from Chat GPT_chunk_26
+CHUNK 38: Script v3 module 1 Full curriculum with case studies from Chat GPT_chunk_12
 ================================================================================
 
 This detailed script is designed to not only present information and statistics (with trends such as a 10–15% prevalence of infertility, a 25% reduction in turnover with comprehensive programs, and faster implementation with executive buy-in) but also to actively engage your audience through exercises, workshops, role-plays, and group discussions. The blend of data, interactive content, and real-world case studies ensures that the course remains engaging, informative, and actionable for all participants.
@@ -1362,7 +1104,7 @@ o3-mini
 
 
 ================================================================================
-CHUNK 83: Case Study How Company X Implemented a Reproductive and Fertility Health Guide_chunk_0
+CHUNK 39: Case Study How Company X Implemented a Reproductive and Fertility Health Guide_chunk_0
 ================================================================================
 
 Case Study: How Company X Implemented a Reproductive and Fertility Health Guide
@@ -1379,15 +1121,6 @@ Added miscarriage leave (2 weeks paid leave) to the company’s health and welln
 Allowed flexible working for employees experiencing menstrual health challenges.
 ✅ Manager & HR Training
 Conducted workshops for managers on handling reproductive health discussions with sensitivity.
-
-
-================================================================================
-CHUNK 84: Case Study How Company X Implemented a Reproductive and Fertility Health Guide_chunk_1
-================================================================================
-
-Allowed flexible working for employees experiencing menstrual health challenges.
-✅ Manager & HR Training
-Conducted workshops for managers on handling reproductive health discussions with sensitivity.
 Created a confidential HR support system where employees could access help without disclosing their situation to direct managers.
 ✅ Awareness & Employee Support
 Launched monthly well-being webinars on fertility, menopause, and reproductive health.
@@ -1397,19 +1130,11 @@ Results & Impact
 📊 87% of employees reported feeling more supported in managing reproductive health challenges.
 📊 Manager confidence in handling sensitive discussions improved by 60%.
 📊 Employee retention in affected groups increased by 12% within a year.
-
-
-================================================================================
-CHUNK 85: Case Study How Company X Implemented a Reproductive and Fertility Health Guide_chunk_2
-================================================================================
-
-📊 Manager confidence in handling sensitive discussions improved by 60%.
-📊 Employee retention in affected groups increased by 12% within a year.
 💡 Key Takeaway: A well-structured reproductive and fertility health guide enhances workplace inclusivity, reduces stigma, and improves employee well-being and retention.
 
 
 ================================================================================
-CHUNK 86: Handout Key Components Checklist_chunk_0
+CHUNK 40: Handout Key Components Checklist_chunk_0
 ================================================================================
 
 Creating an Effective Reproductive & Fertility Health Guide
@@ -1433,7 +1158,7 @@ External expert resources
 
 
 ================================================================================
-CHUNK 87: Module 2 lesson 1 Key Components of an Effective Reproductive and Fertility Health Guide_chunk_0
+CHUNK 41: Module 2 lesson 1 Key Components of an Effective Reproductive and Fertility Health Guide_chunk_0
 ================================================================================
 
 Module 2 lesson 1
@@ -1444,11 +1169,6 @@ Introduction (2-3 mins)
 Welcome to this lesson on the key components of an effective Reproductive and Fertility Health Guide.
 A well-structured guide helps employees access essential support while ensuring companies uphold best practices in inclusion, productivity, and legal compliance.
 In this session, we’ll cover the core elements that make a guide impactful and actionable.
-
-
-================================================================================
-CHUNK 88: Module 2 lesson 1 Key Components of an Effective Reproductive and Fertility Health Guide_chunk_1
-================================================================================
 
 Section 1: Core Policies to Include (5-7 mins)
 A strong guide must outline clear policies to support employees facing reproductive health challenges.
@@ -1461,9 +1181,14 @@ Simple, Clear Language: Avoid medical jargon; use accessible, inclusive terminol
 Step-by-Step Guidance: Break down processes such as applying for leave, accessing HR support, and confidentiality protocols.
 Who to Contact: Provide clear points of contact within HR, employee assistance programs, and external resources.
 
+Section 3: Inclusivity and Accessibility (5-7 mins)
+Ensure the guide is inclusive of all genders, sexual orientations, and family structures.
+Address cultural and religious considerations around reproductive health.
+Offer the guide in multiple formats (digital, print, audio) to enhance accessibility.
+
 
 ================================================================================
-CHUNK 89: Module 2 lesson 1 Key Components of an Effective Reproductive and Fertility Health Guide_chunk_2
+CHUNK 42: Module 2 lesson 1 Key Components of an Effective Reproductive and Fertility Health Guide_chunk_1
 ================================================================================
 
 Section 3: Inclusivity and Accessibility (5-7 mins)
@@ -1482,11 +1207,6 @@ Reinforce the importance of having an accessible and evolving guide.
 Encourage learners to assess their current workplace policies and identify gaps.
 Provide the downloadable handout with actionable steps.
 
-
-================================================================================
-CHUNK 90: Module 2 lesson 1 Key Components of an Effective Reproductive and Fertility Health Guide_chunk_3
-================================================================================
-
 Handout: Key Checklist for an Effective Reproductive and Fertility Health Guide
 ✅ Essential Policies:
 
@@ -1501,7 +1221,7 @@ Would you like additional case studies or interactive elements for this lesson?
 
 
 ================================================================================
-CHUNK 91: Outline and handout Structure Module 2 lesson 1 Key Components of an Effective Reproductive and Fertility Health Guide_chunk_0
+CHUNK 43: Outline and handout Structure Module 2 lesson 1 Key Components of an Effective Reproductive and Fertility Health Guide_chunk_0
 ================================================================================
 
 Module 2 lesson 1
@@ -1512,11 +1232,6 @@ Introduction (2-3 mins)
 Welcome to this lesson on the key components of an effective Reproductive and Fertility Health Guide.
 A well-structured guide helps employees access essential support while ensuring companies uphold best practices in inclusion, productivity, and legal compliance.
 In this session, we’ll cover the core elements that make a guide impactful and actionable.
-
-
-================================================================================
-CHUNK 92: Outline and handout Structure Module 2 lesson 1 Key Components of an Effective Reproductive and Fertility Health Guide_chunk_1
-================================================================================
 
 Section 1: Core Policies to Include (5-7 mins)
 A strong guide must outline clear policies to support employees facing reproductive health challenges.
@@ -1529,9 +1244,14 @@ Simple, Clear Language: Avoid medical jargon; use accessible, inclusive terminol
 Step-by-Step Guidance: Break down processes such as applying for leave, accessing HR support, and confidentiality protocols.
 Who to Contact: Provide clear points of contact within HR, employee assistance programs, and external resources.
 
+Section 3: Inclusivity and Accessibility (5-7 mins)
+Ensure the guide is inclusive of all genders, sexual orientations, and family structures.
+Address cultural and religious considerations around reproductive health.
+Offer the guide in multiple formats (digital, print, audio) to enhance accessibility.
+
 
 ================================================================================
-CHUNK 93: Outline and handout Structure Module 2 lesson 1 Key Components of an Effective Reproductive and Fertility Health Guide_chunk_2
+CHUNK 44: Outline and handout Structure Module 2 lesson 1 Key Components of an Effective Reproductive and Fertility Health Guide_chunk_1
 ================================================================================
 
 Section 3: Inclusivity and Accessibility (5-7 mins)
@@ -1550,11 +1270,6 @@ Reinforce the importance of having an accessible and evolving guide.
 Encourage learners to assess their current workplace policies and identify gaps.
 Provide the downloadable handout with actionable steps.
 
-
-================================================================================
-CHUNK 94: Outline and handout Structure Module 2 lesson 1 Key Components of an Effective Reproductive and Fertility Health Guide_chunk_3
-================================================================================
-
 Handout: Key Checklist for an Effective Reproductive and Fertility Health Guide
 ✅ Essential Policies:
 
@@ -1569,7 +1284,7 @@ Would you like additional case studies or interactive elements for this lesson?
 
 
 ================================================================================
-CHUNK 95: Script and Lesson outline_chunk_0
+CHUNK 45: Script and Lesson outline_chunk_0
 ================================================================================
 
 Sure! Here's a detailed script and handout for Module 2, Lesson 1: Key Components of an Effective Reproductive and Fertility Health Guide.
@@ -1587,8 +1302,13 @@ The guide should be actionable, outlining policies and support mechanisms clearl
 
 
 ================================================================================
-CHUNK 96: Script and Lesson outline_chunk_1
+CHUNK 46: Script and Lesson outline_chunk_1
 ================================================================================
+
+Section 1: Why Structure Matters (3 min)
+A well-structured guide ensures clarity, accessibility, and usability.
+It should be easy to navigate for employees, managers, and HR professionals.
+The guide should be actionable, outlining policies and support mechanisms clearly.
 
 Section 2: Essential Components (10 min)
 1. Introduction & Purpose
@@ -1608,31 +1328,20 @@ How to handle sensitive conversations with employees.
 Legal obligations and employee rights.
 Training for managers to recognize and respond to reproductive health needs.
 5. Employee Resources & Next Steps
-
-
-================================================================================
-CHUNK 97: Script and Lesson outline_chunk_2
-================================================================================
-
-Legal obligations and employee rights.
-Training for managers to recognize and respond to reproductive health needs.
-5. Employee Resources & Next Steps
 List of internal and external resources (EAPs, fertility specialists, legal rights).
 Contact points within the organization.
 How employees can request support.
-
-
-================================================================================
-CHUNK 98: Script and Lesson outline_chunk_3
-================================================================================
 
 Conclusion & Call to Action (5 min)
 "A well-crafted reproductive and fertility health guide is not just a document—it’s a tool for cultural change in your organization. Take a moment to review your existing policies, and start mapping out your company’s guide using today’s framework. In the next lesson, we’ll discuss how to engage leadership and gain buy-in for your guide."
 
 
 ================================================================================
-CHUNK 99: Script and Lesson outline_chunk_4
+CHUNK 47: Script and Lesson outline_chunk_2
 ================================================================================
+
+Conclusion & Call to Action (5 min)
+"A well-crafted reproductive and fertility health guide is not just a document—it’s a tool for cultural change in your organization. Take a moment to review your existing policies, and start mapping out your company’s guide using today’s framework. In the next lesson, we’ll discuss how to engage leadership and gain buy-in for your guide."
 
 Handout: Key Components Checklist
 Title: Creating an Effective Reproductive and Fertility Health Guide
@@ -1655,7 +1364,7 @@ External expert resources
 
 
 ================================================================================
-CHUNK 100: Script and Lesson outline_chunk_5
+CHUNK 48: Script and Lesson outline_chunk_3
 ================================================================================
 
 Would you like any modifications or additional resources, like case studies or templates? 😊
@@ -1673,15 +1382,6 @@ Added miscarriage leave (2 weeks paid leave) to the company’s health and welln
 Allowed flexible working for employees experiencing menstrual health challenges.
 ✅ Manager & HR Training
 Conducted workshops for managers on handling reproductive health discussions with sensitivity.
-
-
-================================================================================
-CHUNK 101: Script and Lesson outline_chunk_6
-================================================================================
-
-Allowed flexible working for employees experiencing menstrual health challenges.
-✅ Manager & HR Training
-Conducted workshops for managers on handling reproductive health discussions with sensitivity.
 Created a confidential HR support system where employees could access help without disclosing their situation to direct managers.
 ✅ Awareness & Employee Support
 Launched monthly well-being webinars on fertility, menopause, and reproductive health.
@@ -1691,19 +1391,11 @@ Results & Impact
 📊 87% of employees reported feeling more supported in managing reproductive health challenges.
 📊 Manager confidence in handling sensitive discussions improved by 60%.
 📊 Employee retention in affected groups increased by 12% within a year.
-
-
-================================================================================
-CHUNK 102: Script and Lesson outline_chunk_7
-================================================================================
-
-📊 Manager confidence in handling sensitive discussions improved by 60%.
-📊 Employee retention in affected groups increased by 12% within a year.
 💡 Key Takeaway: A well-structured reproductive and fertility health guide enhances workplace inclusivity, reduces stigma, and improves employee well-being and retention.
 
 
 ================================================================================
-CHUNK 103: Script and Lesson outline_chunk_8
+CHUNK 49: Script and Lesson outline_chunk_4
 ================================================================================
 
 Template: Reproductive and Fertility Health Guide Outline
@@ -1728,7 +1420,7 @@ External support organizations
 
 
 ================================================================================
-CHUNK 104: Module_4_Evaluation_Script_We_Are_Eden_chunk_0
+CHUNK 50: Module_4_Evaluation_Script_We_Are_Eden_chunk_0
 ================================================================================
 
 I Script: Module 4 – Measuring Effectiveness and
@@ -1746,14 +1438,6 @@ I Lesson 1: Establishing Clear Success Metrics (3 mins)
 First, we need to define what success looks like. Without clear metrics, it’s impossible to
 measure progress or identify areas for improvement. When setting key performance
 indicators (KPIs), consider these categories:
-
-
-================================================================================
-CHUNK 105: Module_4_Evaluation_Script_We_Are_Eden_chunk_1
-================================================================================
-
-measure progress or identify areas for improvement. When setting key performance
-indicators (KPIs), consider these categories:
 I Employee Engagement and Awareness – Are employees accessing resources, attending
 sessions, and engaging with fertility and reproductive health content?
 I Utilization of Benefits – Are employees using fertility-related benefits such as IVF coverage,
@@ -1766,20 +1450,11 @@ I Lesson 2: Gathering Quantitative and Qualitative Data (3 mins)
 To get a comprehensive view of the impact, combine both quantitative and qualitative data.
 I Quantitative Metrics:
 - Participation rates in awareness sessions and workshops
-
-
-================================================================================
-CHUNK 106: Module_4_Evaluation_Script_We_Are_Eden_chunk_2
-================================================================================
-
-To get a comprehensive view of the impact, combine both quantitative and qualitative data.
-I Quantitative Metrics:
-- Participation rates in awareness sessions and workshops
 - Usage statistics of fertility benefits and digital resources
 
 
 ================================================================================
-CHUNK 107: Module_4_Evaluation_Script_We_Are_Eden_chunk_3
+CHUNK 51: Module_4_Evaluation_Script_We_Are_Eden_chunk_1
 ================================================================================
 
 - Reduction in absenteeism due to reproductive health issues
@@ -1799,14 +1474,6 @@ I Audit Focus Areas:
 I Lesson 4: Continuous Improvement Framework (3 mins)
 Reproductive and fertility health needs evolve, and so should your internal programmes.
 Here’s a simple but effective Continuous Improvement Framework:
-
-
-================================================================================
-CHUNK 108: Module_4_Evaluation_Script_We_Are_Eden_chunk_4
-================================================================================
-
-Reproductive and fertility health needs evolve, and so should your internal programmes.
-Here’s a simple but effective Continuous Improvement Framework:
 Step 1: Assess – Review data, identify gaps, and understand employee needs.
 Step 2: Adapt – Refine programme offerings based on feedback and emerging trends.
 Step 3: Communicate – Share updates and outcomes with employees to maintain
@@ -1820,7 +1487,7 @@ I Internal Reporting for Leadership:
 
 
 ================================================================================
-CHUNK 109: Module_4_Evaluation_Script_We_Are_Eden_chunk_5
+CHUNK 52: Module_4_Evaluation_Script_We_Are_Eden_chunk_2
 ================================================================================
 
 I Employee Communication:
@@ -1839,7 +1506,7 @@ G I Continuous Improvement Action Plan Template
 
 
 ================================================================================
-CHUNK 110: Mission Statement_chunk_0
+CHUNK 53: Mission Statement_chunk_0
 ================================================================================
 
 Mission Statement
@@ -1900,9 +1567,6 @@ Fourth level
 Fifth level
 
 
-================================================================================
-CHUNK 111: Mission Statement_chunk_1
-================================================================================
 
 Click to edit Master title style
 Click to edit Master text styles
@@ -1961,7 +1625,7 @@ Fifth level
 
 
 ================================================================================
-CHUNK 112: Outline Reproductive_Fertility_Health_Guide_Updated_chunk_0
+CHUNK 54: Outline Reproductive_Fertility_Health_Guide_Updated_chunk_0
 ================================================================================
 
 Reproductive and Fertility Health Guide Outline
@@ -1986,7 +1650,7 @@ Reproductive and Fertility Health Guide Outline
 
 
 ================================================================================
-CHUNK 113: Outline WeAreEdenReproductive_Fertility_Health_Guide_WeAreEden_chunk_0
+CHUNK 55: Outline WeAreEdenReproductive_Fertility_Health_Guide_WeAreEden_chunk_0
 ================================================================================
 
 Reproductive and Fertility Health Guide Outline
@@ -2011,7 +1675,7 @@ Reproductive and Fertility Health Guide Outline
 
 
 ================================================================================
-CHUNK 114: Template Reproductive and Fertility Health Guide Outline_chunk_0
+CHUNK 56: Template Reproductive and Fertility Health Guide Outline_chunk_0
 ================================================================================
 
 Template: Reproductive and Fertility Health Guide Outline
@@ -2036,7 +1700,7 @@ External support organizations
 
 
 ================================================================================
-CHUNK 115: Handout Key Components Checklist_chunk_0
+CHUNK 57: Handout Key Components Checklist_chunk_0
 ================================================================================
 
 Creating an Effective Reproductive & Fertility Health Guide
@@ -2060,7 +1724,7 @@ External expert resources
 
 
 ================================================================================
-CHUNK 116: Handout Key Components Checklist_chunk_0
+CHUNK 58: Handout Key Components Checklist_chunk_0
 ================================================================================
 
 Creating an Effective Reproductive & Fertility Health Guide 
@@ -2095,7 +1759,7 @@ External expert resources
 
 
 ================================================================================
-CHUNK 117: Africa Implementing Reproductive ^LL0 Fertility health guide across locations_chunk_0
+CHUNK 59: Africa Implementing Reproductive ^LL0 Fertility health guide across locations_chunk_0
 ================================================================================
 
 Implementing Reproductive & Fertility health guide across locations 
@@ -2103,14 +1767,14 @@ Implementing Reproductive & Fertility health guide across locations
 
 
 ================================================================================
-CHUNK 118: Global Implementing Reproductive ^L0 Fertility health guide across locations_chunk_0
+CHUNK 60: Global Implementing Reproductive ^L0 Fertility health guide across locations_chunk_0
 ================================================================================
 
 Implementing Reproductive & Fertility health guide across locations
 
 
 ================================================================================
-CHUNK 119: Module 2 Lesson 3 Chat GPT Prompt_chunk_0
+CHUNK 61: Module 2 Lesson 3 Chat GPT Prompt_chunk_0
 ================================================================================
 
 Module 2 Lesson 3 Chat GPT Prompt
@@ -2119,13 +1783,6 @@ master reproductive health at work course. module 2 creating a reproductive and 
 o Fertility and family-forming benefits (IVF, surrogacy, egg freezing support). 
 o Menstrual, menopause, and reproductive health leave. 
 o Access to expert support (coaching, peer groups, digital tools).
-
-Here are case studies and worked examples of how companies in different regions (UK, Europe, US, LATAM, and Africa) have successfully implemented reproductive health-inclusive workplace policies.
-
-
-================================================================================
-CHUNK 120: Module 2 Lesson 3 Chat GPT Prompt_chunk_1
-================================================================================
 
 Here are case studies and worked examples of how companies in different regions (UK, Europe, US, LATAM, and Africa) have successfully implemented reproductive health-inclusive workplace policies.
 
@@ -2142,7 +1799,7 @@ Partnered with external fertility experts to provide coaching and digital resour
 
 
 ================================================================================
-CHUNK 121: Module 2 Lesson 3 Chat GPT Prompt_chunk_2
+CHUNK 62: Module 2 Lesson 3 Chat GPT Prompt_chunk_1
 ================================================================================
 
 Case Study 2: Europe – Menstrual, Menopause, and Reproductive Health Leave
@@ -2156,11 +1813,6 @@ Integrated menstrual leave into the company’s sick leave policy to prevent sti
 Conducted education sessions on menstrual health to normalize discussions.
 Engaged employees in designing the policy to ensure inclusivity.
 
-
-================================================================================
-CHUNK 122: Module 2 Lesson 3 Chat GPT Prompt_chunk_3
-================================================================================
-
 Case Study 3: United States – Access to Expert Support
 Company: Google (Technology, US)
 Policy Highlights:
@@ -2171,11 +1823,6 @@ Implementation Insights:
 Partnered with healthcare providers to offer fertility coaching services.
 Created ERGs (Employee Resource Groups) for reproductive health discussions.
 Incorporated digital platforms like Maven Clinic for virtual reproductive health support.
-
-
-================================================================================
-CHUNK 123: Module 2 Lesson 3 Chat GPT Prompt_chunk_4
-================================================================================
 
 Case Study 4: Latin America (LATAM) – Holistic Reproductive Health Benefits
 Company: Mercado Libre (E-commerce, LATAM)
@@ -2190,7 +1837,7 @@ Partnered with NGOs and healthcare providers to expand accessibility.
 
 
 ================================================================================
-CHUNK 124: Module 2 Lesson 3 Chat GPT Prompt_chunk_5
+CHUNK 63: Module 2 Lesson 3 Chat GPT Prompt_chunk_2
 ================================================================================
 
 Case Study 5: Africa – Reproductive Health Support in a Resource-Constrained Setting
@@ -2204,11 +1851,6 @@ Worked with local health providers to offer accessible reproductive care.
 Launched an employee wellness program focusing on reproductive health.
 Trained managers on inclusive reproductive health policies to reduce stigma.
 
-
-================================================================================
-CHUNK 125: Module 2 Lesson 3 Chat GPT Prompt_chunk_6
-================================================================================
-
 Key Takeaways for Global Implementation
 Customization is Essential: Policies should align with local labor laws, cultural norms, and healthcare infrastructure.
 Engagement Drives Success: Involve employees in policy development to ensure relevance and adoption.
@@ -2218,7 +1860,7 @@ Would you like me to expand on any specific region or aspect?
 
 
 ================================================================================
-CHUNK 126: Module 2 lesson 3 script inc case studies and WAE edge_chunk_0
+CHUNK 64: Module 2 lesson 3 script inc case studies and WAE edge_chunk_0
 ================================================================================
 
 Case Studies: Implementing Reproductive Health-Inclusive Workplace Policies Globally
@@ -2235,7 +1877,7 @@ Reproductive healthcare is deeply influenced by cultural norms, religious belief
 
 
 ================================================================================
-CHUNK 127: Module 2 lesson 3 script inc case studies and WAE edge_chunk_1
+CHUNK 65: Module 2 lesson 3 script inc case studies and WAE edge_chunk_1
 ================================================================================
 
 🇬🇧 United Kingdom
@@ -2250,14 +1892,6 @@ Islam: Generally permits fertility treatments if both gametes come from the marr
 Hinduism & Sikhism: IVF and fertility treatments are generally accepted, but traditional family structures are emphasized.
 Judaism: Generally supports fertility treatments; Orthodox Judaism may have specific restrictions on embryo use and genetic testing.
 Workplace Impact:
-
-
-================================================================================
-CHUNK 128: Module 2 lesson 3 script inc case studies and WAE edge_chunk_2
-================================================================================
-
-Judaism: Generally supports fertility treatments; Orthodox Judaism may have specific restrictions on embryo use and genetic testing.
-Workplace Impact:
 Employers need inclusive reproductive health policies that consider diverse religious perspectives, particularly in cases of IVF, abortion, and pregnancy loss.
 Faith-based employee resource groups (ERGs) may help bridge workplace support and religious concerns.
 Case Study 1: United Kingdom – Fertility and Family-Forming Benefits
@@ -2268,12 +1902,14 @@ Provides up to 7 days of paid leave for fertility treatments.
 Has a dedicated employee network for fertility and baby loss support.
 How We Are Eden Can Help:
 ✅ Online Course: Helps HR teams structure fertility benefits that meet employee needs while complying with UK workplace regulations.
+✅ Consulting & Training: We Are Eden provides custom policy audits and workshops on best practices for introducing fertility-related benefits.
 
 
 ================================================================================
-CHUNK 129: Module 2 lesson 3 script inc case studies and WAE edge_chunk_3
+CHUNK 66: Module 2 lesson 3 script inc case studies and WAE edge_chunk_2
 ================================================================================
 
+Has a dedicated employee network for fertility and baby loss support.
 How We Are Eden Can Help:
 ✅ Online Course: Helps HR teams structure fertility benefits that meet employee needs while complying with UK workplace regulations.
 ✅ Consulting & Training: We Are Eden provides custom policy audits and workshops on best practices for introducing fertility-related benefits.
@@ -2281,7 +1917,7 @@ How We Are Eden Can Help:
 
 
 ================================================================================
-CHUNK 130: Module 2 lesson 3 script inc case studies and WAE edge_chunk_4
+CHUNK 67: Module 2 lesson 3 script inc case studies and WAE edge_chunk_3
 ================================================================================
 
 🇪🇺 Europe
@@ -2295,20 +1931,12 @@ Catholicism (Spain, Italy, Poland): Often opposes contraception, abortion, and s
 Protestantism (Germany, Netherlands, Scandinavia): Generally supportive of reproductive rights, with some variations.
 Islam (France, Germany, Netherlands): Similar stance as in the UK; supports fertility treatments within marriage but discourages surrogacy.
 Workplace Impact:
-
-
-================================================================================
-CHUNK 131: Module 2 lesson 3 script inc case studies and WAE edge_chunk_5
-================================================================================
-
-Islam (France, Germany, Netherlands): Similar stance as in the UK; supports fertility treatments within marriage but discourages surrogacy.
-Workplace Impact:
 Multinational companies must balance progressive policies with conservative cultural attitudes in certain countries.
 Need for discreet reproductive health support in regions where discussing fertility openly is still taboo.
 
 
 ================================================================================
-CHUNK 132: Module 2 lesson 3 script inc case studies and WAE edge_chunk_6
+CHUNK 68: Module 2 lesson 3 script inc case studies and WAE edge_chunk_4
 ================================================================================
 
 🇺🇸 United States
@@ -2322,20 +1950,12 @@ Judaism: Generally supportive of fertility treatments but follows specific relig
 Islam: Similar stance as in Europe, with strong support for fertility treatments within marriage.
 Secularism: Growing push for inclusive reproductive health policies in workplaces, including coverage for LGBTQ+ family-forming benefits.
 Workplace Impact:
-
-
-================================================================================
-CHUNK 133: Module 2 lesson 3 script inc case studies and WAE edge_chunk_7
-================================================================================
-
-Secularism: Growing push for inclusive reproductive health policies in workplaces, including coverage for LGBTQ+ family-forming benefits.
-Workplace Impact:
 Companies in conservative states may need to provide reproductive healthcare access discreetly (e.g., covering travel for out-of-state abortion care).
 Growing demand for inclusive fertility benefits that support LGBTQ+ employees.
 
 
 ================================================================================
-CHUNK 134: Module 2 lesson 3 script inc case studies and WAE edge_chunk_8
+CHUNK 69: Module 2 lesson 3 script inc case studies and WAE edge_chunk_5
 ================================================================================
 
 🇲🇽 Latin America (LATAM)
@@ -2349,19 +1969,11 @@ Catholicism (predominant in the region): Opposes abortion, surrogacy, and some f
 Indigenous beliefs: Some traditional healing practices and herbal treatments influence reproductive health approaches.
 Workplace Impact:
 Companies need culturally sensitive reproductive health policies that respect strong religious values while ensuring employee well-being.
-
-
-================================================================================
-CHUNK 135: Module 2 lesson 3 script inc case studies and WAE edge_chunk_9
-================================================================================
-
-Workplace Impact:
-Companies need culturally sensitive reproductive health policies that respect strong religious values while ensuring employee well-being.
 Low awareness of menopause and menstrual health in corporate settings—companies introducing these policies need strong employee engagement efforts.
 
 
 ================================================================================
-CHUNK 136: Module 2 lesson 3 script inc case studies and WAE edge_chunk_10
+CHUNK 70: Module 2 lesson 3 script inc case studies and WAE edge_chunk_6
 ================================================================================
 
 🌍 Africa
@@ -2376,21 +1988,8 @@ Islam (West Africa, North Africa, parts of East Africa): Encourages fertility tr
 Indigenous and Traditional Beliefs: Strong reliance on herbal medicine and spiritual practices for fertility treatments.
 Workplace Impact:
 Employers introducing fertility benefits need to be mindful of stigma and cultural sensitivities.
-
-
-================================================================================
-CHUNK 137: Module 2 lesson 3 script inc case studies and WAE edge_chunk_11
-================================================================================
-
-Workplace Impact:
-Employers introducing fertility benefits need to be mindful of stigma and cultural sensitivities.
 Menstrual leave and menopause support are slowly gaining traction but need strong awareness campaigns to be accepted.
 Access to reproductive healthcare (including contraception and fertility treatments) is a major challenge—companies can partner with NGOs to provide support.
-
-
-================================================================================
-CHUNK 138: Module 2 lesson 3 script inc case studies and WAE edge_chunk_12
-================================================================================
 
 Key Considerations for Companies Implementing Reproductive Health Policies Globally
 ✅ Cultural Sensitivity: Adapt policies based on regional attitudes toward reproductive healthcare.
@@ -2401,7 +2000,7 @@ Key Considerations for Companies Implementing Reproductive Health Policies Globa
 
 
 ================================================================================
-CHUNK 139: Module 2 lesson 3 script inc case studies and WAE edge_chunk_13
+CHUNK 71: Module 2 lesson 3 script inc case studies and WAE edge_chunk_7
 ================================================================================
 
 Workplace Adjustments & Support
@@ -2418,19 +2017,7 @@ Has a dedicated employee network for fertility and baby loss support.
 How We Are Eden Can Help:
 ✅ Online Course: Helps HR teams structure fertility benefits that meet employee needs while complying with UK workplace regulations.
 ✅ Consulting & Training: We Are Eden provides custom policy audits and workshops on best practices for introducing fertility-related benefits.
-
-
-================================================================================
-CHUNK 140: Module 2 lesson 3 script inc case studies and WAE edge_chunk_14
-================================================================================
-
-✅ Consulting & Training: We Are Eden provides custom policy audits and workshops on best practices for introducing fertility-related benefits.
 ✅ Support Services: Access to peer support networks, expert-led fertility education sessions, and a repository of lived experiences to guide policy design.
-
-
-================================================================================
-CHUNK 141: Module 2 lesson 3 script inc case studies and WAE edge_chunk_15
-================================================================================
 
 Case Study 2: Europe – Menstrual, Menopause & Reproductive Health Leave
 Company: Zena (Tech Startup, Spain)
@@ -2445,7 +2032,7 @@ How We Are Eden Can Help:
 
 
 ================================================================================
-CHUNK 142: Module 2 lesson 3 script inc case studies and WAE edge_chunk_16
+CHUNK 72: Module 2 lesson 3 script inc case studies and WAE edge_chunk_8
 ================================================================================
 
 Case Study 3: United States – Access to Expert Support
@@ -2458,11 +2045,6 @@ How We Are Eden Can Help:
 ✅ Online Course: Helps companies understand the role of coaching, peer groups, and digital tools in workplace reproductive health support.
 ✅ Implementation Roadmap: Guides HR teams on how to select and integrate digital fertility platforms into employee benefits.
 ✅ Expert-Led Peer Support Groups: Offers live human-to-human support networks for employees navigating fertility challenges.
-
-
-================================================================================
-CHUNK 143: Module 2 lesson 3 script inc case studies and WAE edge_chunk_17
-================================================================================
 
 Case Study 4: Latin America (LATAM) – Holistic Reproductive Health Benefits
 Company: Mercado Libre (E-commerce, LATAM)
@@ -2477,7 +2059,7 @@ How We Are Eden Can Help:
 
 
 ================================================================================
-CHUNK 144: Module 2 lesson 3 script inc case studies and WAE edge_chunk_18
+CHUNK 73: Module 2 lesson 3 script inc case studies and WAE edge_chunk_9
 ================================================================================
 
 Case Study 5: Africa – Reproductive Health Support in Resource-Constrained Settings
@@ -2491,11 +2073,6 @@ How We Are Eden Can Help:
 ✅ Financial Support Guidance: Helps companies explore subsidized healthcare partnerships and private insurance solutions.
 ✅ Community & Knowledge Sharing: Gives access to a repository of lived experiences that help shape policies aligned with local healthcare realities.
 
-
-================================================================================
-CHUNK 145: Module 2 lesson 3 script inc case studies and WAE edge_chunk_19
-================================================================================
-
 How We Are Eden Supports Companies in Creating & Updating Their Workplace Reproductive Health Policies
 1️⃣ Online Course: "Creating a Reproductive & Fertility Health at Work Guide"
 📌 Learn how to build, update, and implement an effective workplace reproductive health policy
@@ -2508,9 +2085,14 @@ How We Are Eden Supports Companies in Creating & Updating Their Workplace Reprod
 🔹 Custom Strategy Development – Create tailored policies that fit company culture and regional laws.
 🔹 Workshops for HR & Leadership – Equip teams with best practices for reproductive health inclusivity.
 
+3️⃣ Employee Support Services
+💬 Live Peer Support Groups – Connect employees with others facing similar reproductive health challenges.
+📚 Lived Experience Repository – A database of real employee journeys to guide policy design.
+🎤 Expert-Led Webinars – Covering fertility, menopause, pregnancy loss, and reproductive health.
+
 
 ================================================================================
-CHUNK 146: Module 2 lesson 3 script inc case studies and WAE edge_chunk_20
+CHUNK 74: Module 2 lesson 3 script inc case studies and WAE edge_chunk_10
 ================================================================================
 
 3️⃣ Employee Support Services
@@ -2526,7 +2108,7 @@ Next Steps for Companies
 
 
 ================================================================================
-CHUNK 147: Module 2 lesson 4_chunk_0
+CHUNK 75: Module 2 lesson 4_chunk_0
 ================================================================================
 
 Module 2 lesson 4
@@ -2548,11 +2130,6 @@ Apply best practices for incorporating industry advancements, regulatory changes
 Creating a robust and inclusive guide is just the beginning—keeping it relevant, effective, and aligned with evolving employee needs requires ongoing effort.
 In this lesson, we will explore how to maintain and refine your guide through regular evaluations, stakeholder feedback, and staying informed about regulatory and industry changes.
 
-
-================================================================================
-CHUNK 148: Module 2 lesson 4_chunk_1
-================================================================================
-
 📊 The Importance of Sustaining Your Guide
 A well-structured reproductive and fertility health guide can have a lasting impact on your organization's culture, talent retention, and employee satisfaction.
 However, without regular updates, even the most comprehensive guide can become outdated or misaligned with changing employee demographics, societal norms, and legal regulations.
@@ -2563,7 +2140,7 @@ The organization stays compliant with relevant laws and regulations, reducing th
 
 
 ================================================================================
-CHUNK 149: Module 2 lesson 4_chunk_2
+CHUNK 76: Module 2 lesson 4_chunk_1
 ================================================================================
 
 🔍 Establishing a Review and Update Process
@@ -2576,11 +2153,6 @@ Key Areas for Review:
 Employee Utilization: Are employees accessing and engaging with the guide’s content and resources?
 Impact on Retention and Productivity: Have reproductive and fertility policies influenced talent retention, absenteeism, and employee satisfaction?
 Compliance and Legal Updates: Are your policies aligned with national laws, including family leave, menopause, miscarriage, and fertility treatment support?
-
-
-================================================================================
-CHUNK 150: Module 2 lesson 4_chunk_3
-================================================================================
 
 😊 Gathering and Acting on Employee Feedback
 Employee feedback is essential in driving continuous improvement.
@@ -2595,7 +2167,7 @@ Communicate updates transparently to employees.
 
 
 ================================================================================
-CHUNK 151: Module 2 lesson 4_chunk_4
+CHUNK 77: Module 2 lesson 4_chunk_2
 ================================================================================
 
 📊 Measuring Impact and Tracking Success
@@ -2606,11 +2178,6 @@ Reduction in Absenteeism: Track the impact of flexible leave policies related to
 Retention and Engagement: Assess retention rates of employees undergoing fertility treatments, menopause, or other reproductive health challenges.
 Managerial Preparedness: Evaluate whether managers feel equipped to address reproductive health concerns through periodic self-assessments.
 
-
-================================================================================
-CHUNK 152: Module 2 lesson 4_chunk_5
-================================================================================
-
 🚀 Adapting to Legal, Social, and Medical Advancements
 The reproductive and fertility health landscape is constantly evolving. Stay informed about regulatory changes, medical advancements, and societal shifts that may affect your guide.
 Key Areas to Monitor:
@@ -2618,17 +2185,17 @@ Legal Compliance: Updates on family leave, fertility treatment rights, and menop
 Medical Innovations: Advancements in fertility treatments, hormone therapies, and menopause management.
 Cultural Shifts: Changing societal perceptions around family-building, LGBTQ+ inclusion, and reproductive autonomy.
 
-
-================================================================================
-CHUNK 153: Module 2 lesson 4_chunk_6
-================================================================================
-
 📝 Communicating Updates Effectively
 Transparency is key when implementing updates to your reproductive and fertility health guide.
 Communication Plan:
 Pre-launch Announcements: Notify employees and managers about upcoming updates.
 Training and Awareness Sessions: Educate managers on new policies and guide enhancements.
 Employee FAQs: Address common concerns and provide clear guidance on new processes.
+
+
+================================================================================
+CHUNK 78: Module 2 lesson 4_chunk_3
+================================================================================
 
 🔄 Creating a Culture of Continuous Improvement
 Cultivate a culture of continuous improvement where reproductive and fertility health is treated as an evolving priority.
@@ -2638,11 +2205,6 @@ Foster open dialogue and transparency.
 Demonstrate a commitment to inclusivity.
 Regularly showcase improvements and successes.
 
-
-================================================================================
-CHUNK 154: Module 2 lesson 4_chunk_7
-================================================================================
-
 📓 Conclusion and Key Takeaways
 To recap, sustaining and evolving your reproductive and fertility health guide over time involves:
 Establishing a regular review and update process.
@@ -2651,11 +2213,6 @@ Monitoring impact through meaningful KPIs.
 Staying informed about legal, medical, and social advancements.
 Communicating updates clearly and effectively.
 By committing to this process, your organization can ensure that reproductive and fertility health support remains relevant, impactful, and aligned with evolving employee needs.
-
-
-================================================================================
-CHUNK 155: Module 2 lesson 4_chunk_8
-================================================================================
 
 💾 Downloadable Resources
 📚 1. Reproductive Health Guide Review Checklist
@@ -2681,21 +2238,21 @@ Employee Satisfaction and Confidence
 
 
 ================================================================================
-CHUNK 156: Module 2 lesson 4_chunk_9
+CHUNK 79: Module 2 lesson 4_chunk_4
 ================================================================================
 
 👉 We Are Eden: Pioneering Reproductive and Fertility Health at Work
 
 
 ================================================================================
-CHUNK 157: Global Implementing Reproductive ^L0 Fertility health guide across locations_chunk_0
+CHUNK 80: Global Implementing Reproductive ^L0 Fertility health guide across locations_chunk_0
 ================================================================================
 
 Implementing Reproductive & Fertility health guide across locations
 
 
 ================================================================================
-CHUNK 158: Global Implementing Reproductive ^LL0 Fertility health guide across locations_chunk_0
+CHUNK 81: Global Implementing Reproductive ^LL0 Fertility health guide across locations_chunk_0
 ================================================================================
 
 Implementing Reproductive & Fertility 
@@ -2703,21 +2260,21 @@ health guide across locations
 
 
 ================================================================================
-CHUNK 159: United Kingdom Implementing Reproductive ^0 Fertility health guide across locations_chunk_0
+CHUNK 82: United Kingdom Implementing Reproductive ^0 Fertility health guide across locations_chunk_0
 ================================================================================
 
 Implementing Reproductive & Fertility health guide across locations
 
 
 ================================================================================
-CHUNK 160: United Kingdom Implementing Reproductive ^L0 Fertility health guide across locations_chunk_0
+CHUNK 83: United Kingdom Implementing Reproductive ^L0 Fertility health guide across locations_chunk_0
 ================================================================================
 
 Implementing Reproductive & Fertility health at work guide in the UK
 
 
 ================================================================================
-CHUNK 161: United Kingdom Implementing Reproductive ^LL0 Fertility health guide across locations_chunk_0
+CHUNK 84: United Kingdom Implementing Reproductive ^LL0 Fertility health guide across locations_chunk_0
 ================================================================================
 
 Implementing Reproductive & Fertility 
@@ -2725,7 +2282,7 @@ health at work guide in the UK
 
 
 ================================================================================
-CHUNK 162: v2 Script and Lesson outline Module 2 Creating a Reproductive and Fertility Health at work guide_chunk_0
+CHUNK 85: v2 Script and Lesson outline Module 2 Creating a Reproductive and Fertility Health at work guide_chunk_0
 ================================================================================
 
 Detailed script and handout for 
@@ -2742,7 +2299,7 @@ In this session, we’ll cover the core elements that make a guide impactful and
 
 
 ================================================================================
-CHUNK 163: v2 Script and Lesson outline Module 2 Creating a Reproductive and Fertility Health at work guide_chunk_1
+CHUNK 86: v2 Script and Lesson outline Module 2 Creating a Reproductive and Fertility Health at work guide_chunk_1
 ================================================================================
 
 Section 1: Why Structure Matters (3 min)
@@ -2759,14 +2316,6 @@ Example: A survey may reveal that only 25% of employees are aware of available f
 Step 2: Identify gaps using the 5Ps Framework.
 Step 3: Engage stakeholders across HR, legal, and communications.
 Step 4: Draft policy elements (e.g., fertility treatment support, flexible work during menopause, dedicated health leave).
-
-
-================================================================================
-CHUNK 164: v2 Script and Lesson outline Module 2 Creating a Reproductive and Fertility Health at work guide_chunk_2
-================================================================================
-
-Step 3: Engage stakeholders across HR, legal, and communications.
-Step 4: Draft policy elements (e.g., fertility treatment support, flexible work during menopause, dedicated health leave).
 Step 5: Communicate the guide internally using clear, accessible language.
 Supporting Statistic:
 Research shows that involving employees in policy development increases benefit uptake by up to 30%.
@@ -2780,7 +2329,7 @@ Invite questions and discuss any challenges participants foresee in developing t
 
 
 ================================================================================
-CHUNK 165: v2 Script and Lesson outline Module 2 Creating a Reproductive and Fertility Health at work guide_chunk_3
+CHUNK 87: v2 Script and Lesson outline Module 2 Creating a Reproductive and Fertility Health at work guide_chunk_2
 ================================================================================
 
 Research:
@@ -2794,10 +2343,6 @@ Productivity loss, burnout, and career stagnation.
 Financial burden: Cost of private treatments and employer healthcare expenses.
 Silent struggles—why employees don’t disclose health challenges.
 
-
-================================================================================
-CHUNK 166: v2 Script and Lesson outline Module 2 Creating a Reproductive and Fertility Health at work guide_chunk_4
-================================================================================
 
 1. Introduction & Purpose
 Purpose of the guide: to support employees dealing with reproductive and fertility health challenges.
@@ -2817,11 +2362,6 @@ Location: UK
 Background
 TechInnovate Ltd. noticed an increase in employee requests for support related to fertility treatments, pregnancy loss, and menopause-related workplace adjustments. After conducting an internal survey, they found that over 30% of employees felt uncomfortable discussing reproductive health issues with their managers.
 
-
-================================================================================
-CHUNK 167: v2 Script and Lesson outline Module 2 Creating a Reproductive and Fertility Health at work guide_chunk_5
-================================================================================
-
 Section 2b: Core Policies to Include (5-7 mins)
 A strong guide must outline clear policies to support employees who are facing reproductive health challenges.
 Flexible Work and Leave Policies: Address time off for fertility treatments, pregnancy loss, menopause, and other reproductive health-related concerns.
@@ -2830,7 +2370,7 @@ Reasonable Accommodations: Outline workplace adjustments such as ergonomic suppo
 
 
 ================================================================================
-CHUNK 168: v2 Script and Lesson outline Module 2 Creating a Reproductive and Fertility Health at work guide_chunk_6
+CHUNK 88: v2 Script and Lesson outline Module 2 Creating a Reproductive and Fertility Health at work guide_chunk_3
 ================================================================================
 
 Section 2bii. Company Policies & Benefits
@@ -2848,20 +2388,11 @@ Setting the tone for psychological safety.
 Allocating budget and measuring ROI.
 
 
-================================================================================
-CHUNK 169: v2 Script and Lesson outline Module 2 Creating a Reproductive and Fertility Health at work guide_chunk_7
-================================================================================
-
 Implementation Steps
 ✅ Policy Updates
 Introduced 5 days of paid fertility leave for employees undergoing treatment.
 Added miscarriage leave (2 weeks paid leave) to the company’s health and wellness policy.
 Allowed flexible working for employees experiencing menstrual health challenges.
-
-
-================================================================================
-CHUNK 170: v2 Script and Lesson outline Module 2 Creating a Reproductive and Fertility Health at work guide_chunk_8
-================================================================================
 
 _______________________________________________________________________
 3. Section 3: Inclusivity and Accessibility (5-7 mins)
@@ -2880,7 +2411,7 @@ Formed an Employee Resource Group (ERG) where employees could share experiences 
 
 
 ================================================================================
-CHUNK 171: v2 Script and Lesson outline Module 2 Creating a Reproductive and Fertility Health at work guide_chunk_9
+CHUNK 89: v2 Script and Lesson outline Module 2 Creating a Reproductive and Fertility Health at work guide_chunk_4
 ================================================================================
 
 4. Manager & HR Guidance
@@ -2899,15 +2430,6 @@ ____________________________________________________________________
 Lesson 5: Re-Assessing Current Practices (Refinement Phase) (45 minutes)
 Review & Reflect (10 minutes):
 Emphasize that creating a guide is an iterative process.
-
-
-================================================================================
-CHUNK 172: v2 Script and Lesson outline Module 2 Creating a Reproductive and Fertility Health at work guide_chunk_10
-================================================================================
-
-Lesson 5: Re-Assessing Current Practices (Refinement Phase) (45 minutes)
-Review & Reflect (10 minutes):
-Emphasize that creating a guide is an iterative process.
 Revisit the self-assessment from Module 1 and compare against the new framework.
 Interactive Workshop (20 minutes):
 Activity: In breakout groups, participants map their organization’s current policies against the ideal framework presented.
@@ -2919,9 +2441,16 @@ Facilitate a discussion on common themes and strategic next steps.
 Wrap-Up (5 minutes):
 Summarize the refinement process and stress the importance of continual reassessment.
 
+Employee Resources & Next Steps
+List of internal and external resources (EAPs, fertility specialists, legal rights).
+Contact points within the organization.
+How employees can request support.
+Results & Impact
+📊 87% of employees reported feeling more supported in managing reproductive health challenges.
+
 
 ================================================================================
-CHUNK 173: v2 Script and Lesson outline Module 2 Creating a Reproductive and Fertility Health at work guide_chunk_11
+CHUNK 90: v2 Script and Lesson outline Module 2 Creating a Reproductive and Fertility Health at work guide_chunk_5
 ================================================================================
 
 Employee Resources & Next Steps
@@ -2937,9 +2466,6 @@ Results & Impact
 💡 Key Takeaway: A well-structured reproductive and fertility health guide enhances workplace inclusivity, reduces stigma, and improves employee well-being and retention.
 
 
-================================================================================
-CHUNK 174: v2 Script and Lesson outline Module 2 Creating a Reproductive and Fertility Health at work guide_chunk_12
-================================================================================
 
 Conclusion & Call to Action (5 min)
 "A well-crafted reproductive and fertility health guide is not just a document—it’s a tool for cultural change in your organization. Take a moment to review your existing policies, and start mapping out your company’s guide using today’s framework. In the next lesson, we’ll discuss how to engage leadership and gain buy-in for your guide."
@@ -2951,7 +2477,7 @@ Provide the downloadable handout with actionable steps.
 
 
 ================================================================================
-CHUNK 175: v2 Script and Lesson outline_chunk_0
+CHUNK 91: v2 Script and Lesson outline_chunk_0
 ================================================================================
 
 Detailed script and handout for 
@@ -2968,7 +2494,7 @@ In this session, we’ll cover the core elements that make a guide impactful and
 
 
 ================================================================================
-CHUNK 176: v2 Script and Lesson outline_chunk_1
+CHUNK 92: v2 Script and Lesson outline_chunk_1
 ================================================================================
 
 Section 1: Why Structure Matters (3 min)
@@ -2985,14 +2511,6 @@ Example: A survey may reveal that only 25% of employees are aware of available f
 Step 2: Identify gaps using the 5Ps Framework.
 Step 3: Engage stakeholders across HR, legal, and communications.
 Step 4: Draft policy elements (e.g., fertility treatment support, flexible work during menopause, dedicated health leave).
-
-
-================================================================================
-CHUNK 177: v2 Script and Lesson outline_chunk_2
-================================================================================
-
-Step 3: Engage stakeholders across HR, legal, and communications.
-Step 4: Draft policy elements (e.g., fertility treatment support, flexible work during menopause, dedicated health leave).
 Step 5: Communicate the guide internally using clear, accessible language.
 Supporting Statistic:
 Research shows that involving employees in policy development increases benefit uptake by up to 30%.
@@ -3006,7 +2524,7 @@ Invite questions and discuss any challenges participants foresee in developing t
 
 
 ================================================================================
-CHUNK 178: v2 Script and Lesson outline_chunk_3
+CHUNK 93: v2 Script and Lesson outline_chunk_2
 ================================================================================
 
 Research:
@@ -3020,10 +2538,6 @@ Productivity loss, burnout, and career stagnation.
 Financial burden: Cost of private treatments and employer healthcare expenses.
 Silent struggles—why employees don’t disclose health challenges.
 
-
-================================================================================
-CHUNK 179: v2 Script and Lesson outline_chunk_4
-================================================================================
 
 1. Introduction & Purpose
 Purpose of the guide: to support employees dealing with reproductive and fertility health challenges.
@@ -3043,11 +2557,6 @@ Location: UK
 Background
 TechInnovate Ltd. noticed an increase in employee requests for support related to fertility treatments, pregnancy loss, and menopause-related workplace adjustments. After conducting an internal survey, they found that over 30% of employees felt uncomfortable discussing reproductive health issues with their managers.
 
-
-================================================================================
-CHUNK 180: v2 Script and Lesson outline_chunk_5
-================================================================================
-
 Section 2b: Core Policies to Include (5-7 mins)
 A strong guide must outline clear policies to support employees who are facing reproductive health challenges.
 Flexible Work and Leave Policies: Address time off for fertility treatments, pregnancy loss, menopause, and other reproductive health-related concerns.
@@ -3056,7 +2565,7 @@ Reasonable Accommodations: Outline workplace adjustments such as ergonomic suppo
 
 
 ================================================================================
-CHUNK 181: v2 Script and Lesson outline_chunk_6
+CHUNK 94: v2 Script and Lesson outline_chunk_3
 ================================================================================
 
 Section 2bii. Company Policies & Benefits
@@ -3074,20 +2583,11 @@ Setting the tone for psychological safety.
 Allocating budget and measuring ROI.
 
 
-================================================================================
-CHUNK 182: v2 Script and Lesson outline_chunk_7
-================================================================================
-
 Implementation Steps
 ✅ Policy Updates
 Introduced 5 days of paid fertility leave for employees undergoing treatment.
 Added miscarriage leave (2 weeks paid leave) to the company’s health and wellness policy.
 Allowed flexible working for employees experiencing menstrual health challenges.
-
-
-================================================================================
-CHUNK 183: v2 Script and Lesson outline_chunk_8
-================================================================================
 
 _______________________________________________________________________
 3. Section 3: Inclusivity and Accessibility (5-7 mins)
@@ -3106,7 +2606,7 @@ Formed an Employee Resource Group (ERG) where employees could share experiences 
 
 
 ================================================================================
-CHUNK 184: v2 Script and Lesson outline_chunk_9
+CHUNK 95: v2 Script and Lesson outline_chunk_4
 ================================================================================
 
 4. Manager & HR Guidance
@@ -3125,15 +2625,6 @@ ____________________________________________________________________
 Lesson 5: Re-Assessing Current Practices (Refinement Phase) (45 minutes)
 Review & Reflect (10 minutes):
 Emphasize that creating a guide is an iterative process.
-
-
-================================================================================
-CHUNK 185: v2 Script and Lesson outline_chunk_10
-================================================================================
-
-Lesson 5: Re-Assessing Current Practices (Refinement Phase) (45 minutes)
-Review & Reflect (10 minutes):
-Emphasize that creating a guide is an iterative process.
 Revisit the self-assessment from Module 1 and compare against the new framework.
 Interactive Workshop (20 minutes):
 Activity: In breakout groups, participants map their organization’s current policies against the ideal framework presented.
@@ -3145,9 +2636,16 @@ Facilitate a discussion on common themes and strategic next steps.
 Wrap-Up (5 minutes):
 Summarize the refinement process and stress the importance of continual reassessment.
 
+Employee Resources & Next Steps
+List of internal and external resources (EAPs, fertility specialists, legal rights).
+Contact points within the organization.
+How employees can request support.
+Results & Impact
+📊 87% of employees reported feeling more supported in managing reproductive health challenges.
+
 
 ================================================================================
-CHUNK 186: v2 Script and Lesson outline_chunk_11
+CHUNK 96: v2 Script and Lesson outline_chunk_5
 ================================================================================
 
 Employee Resources & Next Steps
@@ -3163,9 +2661,6 @@ Results & Impact
 💡 Key Takeaway: A well-structured reproductive and fertility health guide enhances workplace inclusivity, reduces stigma, and improves employee well-being and retention.
 
 
-================================================================================
-CHUNK 187: v2 Script and Lesson outline_chunk_12
-================================================================================
 
 Conclusion & Call to Action (5 min)
 "A well-crafted reproductive and fertility health guide is not just a document—it’s a tool for cultural change in your organization. Take a moment to review your existing policies, and start mapping out your company’s guide using today’s framework. In the next lesson, we’ll discuss how to engage leadership and gain buy-in for your guide."
@@ -3177,7 +2672,7 @@ Provide the downloadable handout with actionable steps.
 
 
 ================================================================================
-CHUNK 188: v3 Script Module 2 lesson 3_chunk_0
+CHUNK 97: v3 Script Module 2 lesson 3_chunk_0
 ================================================================================
 
 Case Studies: Implementing Reproductive Health-Inclusive Workplace Policies Globally
@@ -3194,7 +2689,7 @@ Reproductive healthcare is deeply influenced by cultural norms, religious belief
 
 
 ================================================================================
-CHUNK 189: v3 Script Module 2 lesson 3_chunk_1
+CHUNK 98: v3 Script Module 2 lesson 3_chunk_1
 ================================================================================
 
 🇬🇧 United Kingdom
@@ -3209,14 +2704,6 @@ Islam: Generally permits fertility treatments if both gametes come from the marr
 Hinduism & Sikhism: IVF and fertility treatments are generally accepted, but traditional family structures are emphasized.
 Judaism: Generally supports fertility treatments; Orthodox Judaism may have specific restrictions on embryo use and genetic testing.
 Workplace Impact:
-
-
-================================================================================
-CHUNK 190: v3 Script Module 2 lesson 3_chunk_2
-================================================================================
-
-Judaism: Generally supports fertility treatments; Orthodox Judaism may have specific restrictions on embryo use and genetic testing.
-Workplace Impact:
 Employers need inclusive reproductive health policies that consider diverse religious perspectives, particularly in cases of IVF, abortion, and pregnancy loss.
 Faith-based employee resource groups (ERGs) may help bridge workplace support and religious concerns.
 Case Study 1: United Kingdom – Fertility and Family-Forming Benefits
@@ -3227,12 +2714,14 @@ Provides up to 7 days of paid leave for fertility treatments.
 Has a dedicated employee network for fertility and baby loss support.
 How We Are Eden Can Help:
 ✅ Online Course: Helps HR teams structure fertility benefits that meet employee needs while complying with UK workplace regulations.
+✅ Consulting & Training: We Are Eden provides custom policy audits and workshops on best practices for introducing fertility-related benefits.
 
 
 ================================================================================
-CHUNK 191: v3 Script Module 2 lesson 3_chunk_3
+CHUNK 99: v3 Script Module 2 lesson 3_chunk_2
 ================================================================================
 
+Has a dedicated employee network for fertility and baby loss support.
 How We Are Eden Can Help:
 ✅ Online Course: Helps HR teams structure fertility benefits that meet employee needs while complying with UK workplace regulations.
 ✅ Consulting & Training: We Are Eden provides custom policy audits and workshops on best practices for introducing fertility-related benefits.
@@ -3240,7 +2729,7 @@ How We Are Eden Can Help:
 
 
 ================================================================================
-CHUNK 192: v3 Script Module 2 lesson 3_chunk_4
+CHUNK 100: v3 Script Module 2 lesson 3_chunk_3
 ================================================================================
 
 🇪🇺 Europe
@@ -3254,20 +2743,12 @@ Catholicism (Spain, Italy, Poland): Often opposes contraception, abortion, and s
 Protestantism (Germany, Netherlands, Scandinavia): Generally supportive of reproductive rights, with some variations.
 Islam (France, Germany, Netherlands): Similar stance as in the UK; supports fertility treatments within marriage but discourages surrogacy.
 Workplace Impact:
-
-
-================================================================================
-CHUNK 193: v3 Script Module 2 lesson 3_chunk_5
-================================================================================
-
-Islam (France, Germany, Netherlands): Similar stance as in the UK; supports fertility treatments within marriage but discourages surrogacy.
-Workplace Impact:
 Multinational companies must balance progressive policies with conservative cultural attitudes in certain countries.
 Need for discreet reproductive health support in regions where discussing fertility openly is still taboo.
 
 
 ================================================================================
-CHUNK 194: v3 Script Module 2 lesson 3_chunk_6
+CHUNK 101: v3 Script Module 2 lesson 3_chunk_4
 ================================================================================
 
 🇺🇸 United States
@@ -3281,20 +2762,12 @@ Judaism: Generally supportive of fertility treatments but follows specific relig
 Islam: Similar stance as in Europe, with strong support for fertility treatments within marriage.
 Secularism: Growing push for inclusive reproductive health policies in workplaces, including coverage for LGBTQ+ family-forming benefits.
 Workplace Impact:
-
-
-================================================================================
-CHUNK 195: v3 Script Module 2 lesson 3_chunk_7
-================================================================================
-
-Secularism: Growing push for inclusive reproductive health policies in workplaces, including coverage for LGBTQ+ family-forming benefits.
-Workplace Impact:
 Companies in conservative states may need to provide reproductive healthcare access discreetly (e.g., covering travel for out-of-state abortion care).
 Growing demand for inclusive fertility benefits that support LGBTQ+ employees.
 
 
 ================================================================================
-CHUNK 196: v3 Script Module 2 lesson 3_chunk_8
+CHUNK 102: v3 Script Module 2 lesson 3_chunk_5
 ================================================================================
 
 🇲🇽 Latin America (LATAM)
@@ -3308,19 +2781,11 @@ Catholicism (predominant in the region): Opposes abortion, surrogacy, and some f
 Indigenous beliefs: Some traditional healing practices and herbal treatments influence reproductive health approaches.
 Workplace Impact:
 Companies need culturally sensitive reproductive health policies that respect strong religious values while ensuring employee well-being.
-
-
-================================================================================
-CHUNK 197: v3 Script Module 2 lesson 3_chunk_9
-================================================================================
-
-Workplace Impact:
-Companies need culturally sensitive reproductive health policies that respect strong religious values while ensuring employee well-being.
 Low awareness of menopause and menstrual health in corporate settings—companies introducing these policies need strong employee engagement efforts.
 
 
 ================================================================================
-CHUNK 198: v3 Script Module 2 lesson 3_chunk_10
+CHUNK 103: v3 Script Module 2 lesson 3_chunk_6
 ================================================================================
 
 🌍 Africa
@@ -3335,21 +2800,8 @@ Islam (West Africa, North Africa, parts of East Africa): Encourages fertility tr
 Indigenous and Traditional Beliefs: Strong reliance on herbal medicine and spiritual practices for fertility treatments.
 Workplace Impact:
 Employers introducing fertility benefits need to be mindful of stigma and cultural sensitivities.
-
-
-================================================================================
-CHUNK 199: v3 Script Module 2 lesson 3_chunk_11
-================================================================================
-
-Workplace Impact:
-Employers introducing fertility benefits need to be mindful of stigma and cultural sensitivities.
 Menstrual leave and menopause support are slowly gaining traction but need strong awareness campaigns to be accepted.
 Access to reproductive healthcare (including contraception and fertility treatments) is a major challenge—companies can partner with NGOs to provide support.
-
-
-================================================================================
-CHUNK 200: v3 Script Module 2 lesson 3_chunk_12
-================================================================================
 
 Key Considerations for Companies Implementing Reproductive Health Policies Globally
 ✅ Cultural Sensitivity: Adapt policies based on regional attitudes toward reproductive healthcare.
@@ -3360,7 +2812,7 @@ Key Considerations for Companies Implementing Reproductive Health Policies Globa
 
 
 ================================================================================
-CHUNK 201: v3 Script Module 2 lesson 3_chunk_13
+CHUNK 104: v3 Script Module 2 lesson 3_chunk_7
 ================================================================================
 
 Workplace Adjustments & Support
@@ -3377,19 +2829,7 @@ Has a dedicated employee network for fertility and baby loss support.
 How We Are Eden Can Help:
 ✅ Online Course: Helps HR teams structure fertility benefits that meet employee needs while complying with UK workplace regulations.
 ✅ Consulting & Training: We Are Eden provides custom policy audits and workshops on best practices for introducing fertility-related benefits.
-
-
-================================================================================
-CHUNK 202: v3 Script Module 2 lesson 3_chunk_14
-================================================================================
-
-✅ Consulting & Training: We Are Eden provides custom policy audits and workshops on best practices for introducing fertility-related benefits.
 ✅ Support Services: Access to peer support networks, expert-led fertility education sessions, and a repository of lived experiences to guide policy design.
-
-
-================================================================================
-CHUNK 203: v3 Script Module 2 lesson 3_chunk_15
-================================================================================
 
 Case Study 2: Europe – Menstrual, Menopause & Reproductive Health Leave
 Company: Zena (Tech Startup, Spain)
@@ -3404,7 +2844,7 @@ How We Are Eden Can Help:
 
 
 ================================================================================
-CHUNK 204: v3 Script Module 2 lesson 3_chunk_16
+CHUNK 105: v3 Script Module 2 lesson 3_chunk_8
 ================================================================================
 
 Case Study 3: United States – Access to Expert Support
@@ -3417,11 +2857,6 @@ How We Are Eden Can Help:
 ✅ Online Course: Helps companies understand the role of coaching, peer groups, and digital tools in workplace reproductive health support.
 ✅ Implementation Roadmap: Guides HR teams on how to select and integrate digital fertility platforms into employee benefits.
 ✅ Expert-Led Peer Support Groups: Offers live human-to-human support networks for employees navigating fertility challenges.
-
-
-================================================================================
-CHUNK 205: v3 Script Module 2 lesson 3_chunk_17
-================================================================================
 
 Case Study 4: Latin America (LATAM) – Holistic Reproductive Health Benefits
 Company: Mercado Libre (E-commerce, LATAM)
@@ -3436,7 +2871,7 @@ How We Are Eden Can Help:
 
 
 ================================================================================
-CHUNK 206: v3 Script Module 2 lesson 3_chunk_18
+CHUNK 106: v3 Script Module 2 lesson 3_chunk_9
 ================================================================================
 
 Case Study 5: Africa – Reproductive Health Support in Resource-Constrained Settings
@@ -3450,11 +2885,6 @@ How We Are Eden Can Help:
 ✅ Financial Support Guidance: Helps companies explore subsidized healthcare partnerships and private insurance solutions.
 ✅ Community & Knowledge Sharing: Gives access to a repository of lived experiences that help shape policies aligned with local healthcare realities.
 
-
-================================================================================
-CHUNK 207: v3 Script Module 2 lesson 3_chunk_19
-================================================================================
-
 How We Are Eden Supports Companies in Creating & Updating Their Workplace Reproductive Health Policies
 1️⃣ Online Course: "Creating a Reproductive & Fertility Health at Work Guide"
 📌 Learn how to build, update, and implement an effective workplace reproductive health policy
@@ -3467,9 +2897,14 @@ How We Are Eden Supports Companies in Creating & Updating Their Workplace Reprod
 🔹 Custom Strategy Development – Create tailored policies that fit company culture and regional laws.
 🔹 Workshops for HR & Leadership – Equip teams with best practices for reproductive health inclusivity.
 
+3️⃣ Employee Support Services
+💬 Live Peer Support Groups – Connect employees with others facing similar reproductive health challenges.
+📚 Lived Experience Repository – A database of real employee journeys to guide policy design.
+🎤 Expert-Led Webinars – Covering fertility, menopause, pregnancy loss, and reproductive health.
+
 
 ================================================================================
-CHUNK 208: v3 Script Module 2 lesson 3_chunk_20
+CHUNK 107: v3 Script Module 2 lesson 3_chunk_10
 ================================================================================
 
 3️⃣ Employee Support Services
