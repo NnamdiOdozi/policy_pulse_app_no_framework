@@ -1,5 +1,6 @@
 
 venv
+.venv
 data/
 downloaded_model/
 __pycache__

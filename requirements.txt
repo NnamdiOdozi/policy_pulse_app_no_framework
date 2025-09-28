@@ -1,8 +1,8 @@
 # Compatible with Python >= 3.10
 
 # Core packages
-numpy==2.3.0        # Supports Python 3.11+
-pandas==2.3.0
+numpy    # Supports Python 3.11+
+pandas
 matplotlib==3.10.3
 tqdm==4.67.1
 psutil==7.0.0
@@ -38,3 +38,19 @@ langsmith
 
 #futureagi==0.6.0
 #ai-evaluation==0.1.0
+
+langchain-openai>=0.3.32
+langchain>=0.2.11
+tqdm>=4.67.1
+cachetools>=5.5.2
+openai>=1.107.1
+llama-index
+langchain_community
+langchain-pinecone
+
+# Document loaders
+unstructured==0.16.9
+docx2txt==0.8
+
+# Web search
+duckduckgo-search==6.3.5

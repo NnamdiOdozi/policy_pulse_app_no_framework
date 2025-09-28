@@ -1,6 +1,0 @@
-[project]
-name = "policy_pulse"
-version = "0.1.0"
-
-[tool.setuptools]
-py-modules = ["ai_agent", "config", "pulse_streamlit_app", "session_manager"]
