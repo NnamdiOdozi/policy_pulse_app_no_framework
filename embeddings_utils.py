@@ -176,61 +176,6 @@ def process_directory(directory_path, text_splitter):
     return all_documents
 
 # Function to upload embeddings to Pinecone
-def upload_to_pinecone_old(documents, index_name, api_key):
-    """
-    Upload documents to Pinecone using text-based upsert
-    
-    Parameters:
-    documents (list): List of document objects with text and metadata
-    index_name (str): Name of Pinecone index
-    api_key (str): Pinecone API key
-    """
-
-    
-    # Initialize Pinecone
-    pc = Pinecone(api_key=api_key)
-    
-    # Get the index
-    index = pc.Index(index_name)
-    
-    # Calculate number of batches
-    batch_size = 64 # Pinecone appears to have limit of 96
-    num_batches = (len(documents) - 1) // batch_size + 1
-    
-    # Upsert documents (Pinecone will handle the embedding generation)
-    for i in tqdm(range(0, len(documents), batch_size), desc="Uploading to Pinecone", total=num_batches):
-        batch = documents[i:i+batch_size]
-        
-        # Format for text-based upsert with FLATTENED metadata
-        upsert_batch = []
-        for doc in batch:
-            # Flatten metadata to make it compatible with Pinecone's requirements
-            flattened_metadata = {}
-            for key, value in doc["metadata"].items():
-                # Convert all values to strings to ensure compatibility
-                if isinstance(value, (dict, list)):
-                    flattened_metadata[key] = str(value)
-                else:
-                    flattened_metadata[key] = value
-            
-            # Create record with flattened metadata
-            record = {
-                "id": doc["id"],
-                "text": doc["text"],  # This is the raw text
-                "metadata": flattened_metadata
-            }
-                                   
-            upsert_batch.append(record)
-       
-        if i == 0:  # Print sample of first batch only
-            print("Sample record format:", upsert_batch[0])
-        # Upsert to Pinecone
-        index.upsert_records("", upsert_batch)
-    
-    print(f"Successfully uploaded {len(documents)} document chunks to Pinecone index '{index_name}'")
-
-
-# Function to upload embeddings to Pinecone
 def upload_to_pinecone(documents, index_name, api_key):
     """
     Upload documents to Pinecone using text-based upsert
