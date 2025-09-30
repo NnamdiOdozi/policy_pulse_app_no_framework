@@ -14,6 +14,7 @@ import datetime
 from pinecone import Pinecone
 
 
+
 # Function to extract text from DOCX
 def extract_text_from_docx(file_path):
     doc = docx.Document(file_path)
@@ -220,7 +221,9 @@ def upload_to_pinecone(documents, index_name, api_key):
             record = {
                 "id": doc["id"],
                 "text": doc["text"],  # The raw text
-                "metadata": metadata_str  # Metadata as a serialized JSON string
+                "metadata": metadata_str,  # Metadata as a serialized JSON string
+                "file_type": doc["metadata"]["file_type"],
+                "timestamp": datetime.datetime.now().isoformat()  # Optional timestamp
             }
             
             upsert_batch.append(record)
