@@ -200,6 +200,7 @@ def upload_to_pinecone(documents, index_name, api_key):
     num_batches = (len(documents) - 1) // batch_size + 1
     
     # Upsert documents (Pinecone will handle the embedding generation)
+    serial_counter = 0
     for i in tqdm(range(0, len(documents), batch_size), desc="Uploading to Pinecone", total=num_batches):
         batch = documents[i:i+batch_size]
         
@@ -223,11 +224,13 @@ def upload_to_pinecone(documents, index_name, api_key):
                 "text": doc["text"],  # The raw text
                 "metadata": metadata_str,  # Metadata as a serialized JSON string
                 "file_type": doc["metadata"]["file_type"],
-                "timestamp": datetime.datetime.now().isoformat()  # Optional timestamp
+                "timestamp": datetime.datetime.now().isoformat(),  # Optional timestamp
+                "serial_number": serial_counter  # Optional serial number for tracking
             }
             
             upsert_batch.append(record)
-        
+            serial_counter += 1
+
         if i == 0:  # Print sample of first batch only
             print("Sample record format:", upsert_batch[0])
             
